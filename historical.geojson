@@ -1,0 +1,4161 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-02-26T14:46:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/910390736",
+        "historic": "castle",
+        "name": "Conciergerie",
+        "name:el": "Κονσιερζερί",
+        "name:he": "הקונסיירז'רי",
+        "name:ko": "콩시에르쥬리",
+        "name:ru": "Консьержери",
+        "name:uk": "Консьєржері",
+        "name:zh": "巴黎古監獄",
+        "opening_hours": "Mo-Su 09:30-18:00",
+        "operator": "Centre des monuments nationaux",
+        "tourism": "museum",
+        "website": "http://conciergerie.monuments-nationaux.fr/",
+        "wikidata": "Q138101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3460263,
+          48.8559492
+        ]
+      },
+      "id": "node/910390736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015543378",
+        "historic": "monastery",
+        "name": "Abbaye de Port-Royal",
+        "wikidata": "Q2820659",
+        "wikipedia": "fr:Abbaye de Port-Royal de Paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3383312,
+          48.8385599
+        ]
+      },
+      "id": "node/1015543378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125740344",
+        "alt_name": "Louis Jean-Marie Daubenton",
+        "historic": "memorial",
+        "name": "Daubenton",
+        "subject:wikidata": "Q546443",
+        "subject:wikipedia": "fr:Louis Jean-Marie Daubenton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3562619,
+          48.8431737
+        ]
+      },
+      "id": "node/1125740344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770572635",
+        "historic": "memorial",
+        "name": "Mur des Justes",
+        "wikidata": "Q3327981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3561997,
+          48.8549812
+        ]
+      },
+      "id": "node/1770572635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2386627264",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "L’eau est le plus ancien mode de transport, utilisé bien avant l’invention de la roue. La corporation des nautes lègue d’ailleurs à la capitale son sceau et sa devise « Fluctuat nec mergitur » !",
+        "inscription:2": "Au Moyen Age déjà, la Seine représente la première voie commerciale de la France du Nord, et un « corbillat », ou coche d’eau, assure la navette entre Paris et Corbeil.",
+        "inscription:3": "Sous l’influence de Colbert, soucieux de développer la batellerie en France, Louis XIV accorde en 1665 des lettres patentes qui fixent précisément les conditions de transport des passagers.",
+        "inscription:4": "Ils ne devaient pas être plus de 16, et « pour prévenir les difficultés et les querelles, les salaires des bachoteurs étaient réglés par le prévôt des Marchands et les Echevins, avec défense d’exiger de plus forts droits, de jurer ni de blasphémer,",
+        "inscription:5": "d’insulter ni injurier par parole ou par voie de fait les bourgeois ou autres, soit sur les ports, soit dans les bachots... ». En 1754, les galiotes reliaient quotidiennement le Pont-Royal à Sèvres et Saint-Cloud, pour 5 sols par personne.",
+        "memorial": "plaque",
+        "name": "Les Coches d'Eau",
+        "operator": "Mairie de Paris",
+        "source": "survey 2013-07-08",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291611"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3440198,
+          48.8540233
+        ]
+      },
+      "id": "node/2386627264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2534780364",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Jean-Albert Vouillard 1944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3451179,
+          48.8531567
+        ]
+      },
+      "id": "node/2534780364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757845103",
+        "artwork_type": "sculpture",
+        "historic": "memorial",
+        "name": "Fléchier",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3332383,
+          48.850863
+        ]
+      },
+      "id": "node/2757845103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757845104",
+        "artwork_type": "sculpture",
+        "historic": "memorial",
+        "name": "Bossuet",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3332666,
+          48.8508937
+        ]
+      },
+      "id": "node/2757845104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757845105",
+        "artwork_type": "sculpture",
+        "historic": "memorial",
+        "name": "Fénelon",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3333185,
+          48.8508714
+        ]
+      },
+      "id": "node/2757845105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2757845106",
+        "artwork_type": "sculpture",
+        "historic": "memorial",
+        "name": "Massillon",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3332818,
+          48.8508402
+        ]
+      },
+      "id": "node/2757845106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3097884478",
+        "circumference": "0.50",
+        "height": "7",
+        "historic": "tomb",
+        "name": "Tombe de Marguerite Duras",
+        "natural": "tree",
+        "ref:opendataparis:adresse": "CIMETIERE DE MONTPARNASSE GRAND / AVENUE DU BOULEVARD / DIV 21",
+        "ref:opendataparis:domanialit": "CIMETIERE",
+        "source": "opendata.paris.fr",
+        "taxon:species": "Tilia x europaea",
+        "taxon:species:varietas": "Euchlora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3285601,
+          48.8395985
+        ]
+      },
+      "id": "node/3097884478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3099606921",
+        "historic": "memorial",
+        "memorial:type": "plaque",
+        "name": "Hommage aux esclaves des colonies françaises",
+        "start_date": "2011",
+        "wikidata": "Q18191144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3390536,
+          48.8462851
+        ]
+      },
+      "id": "node/3099606921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3270224562",
+        "cemetery": "grave",
+        "historic": "tomb",
+        "name": "Serge Gainsbourg",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3265179,
+          48.838008
+        ]
+      },
+      "id": "node/3270224562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3270239561",
+        "historic": "tomb",
+        "name": "Joris Ivens",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3273132,
+          48.8378801
+        ]
+      },
+      "id": "node/3270239561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3273257061",
+        "historic": "tomb",
+        "name": "Urbain le Verrier",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3276178,
+          48.8372444
+        ]
+      },
+      "id": "node/3273257061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3273257261",
+        "historic": "tomb",
+        "name": "Susan Sontag",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3271449,
+          48.8381622
+        ]
+      },
+      "id": "node/3273257261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3273257361",
+        "historic": "tomb",
+        "name": "Jacques Demy",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3252931,
+          48.8377236
+        ]
+      },
+      "id": "node/3273257361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3294536865",
+        "historic": "memorial",
+        "memorial": "war_memorial",
+        "name": "Monument aux Morts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.327007,
+          48.8440584
+        ]
+      },
+      "id": "node/3294536865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370146093",
+        "artist_name": "Jean-Paul Augé",
+        "artwork_type": "statue",
+        "historic": "memorial",
+        "material": "metal",
+        "name": "Dante",
+        "start_date": "1882",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3451503,
+          48.8493296
+        ]
+      },
+      "id": "node/3370146093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370212880",
+        "artwork_type": "statue",
+        "historic": "memorial",
+        "material": "stone",
+        "name": "Claude Bernard",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3456058,
+          48.8492003
+        ]
+      },
+      "id": "node/3370212880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3370212881",
+        "historic": "memorial",
+        "material": "stone",
+        "memorial:type": "bust",
+        "name": "Ronsard",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3463523,
+          48.84903
+        ]
+      },
+      "id": "node/3370212881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3377259715",
+        "historic": "tomb",
+        "name": "Raymond Aron",
+        "subject:wikidata": "Q160640"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3286537,
+          48.8358381
+        ]
+      },
+      "id": "node/3377259715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3412381471",
+        "description": "On 19 August the peacekeeper Francis Maurizot fell here for the liberation of Paris in 1944",
+        "historic": "memorial",
+        "inscription:fr": "Le 19 août le gardien de la paix Maurizot Francis est tombé ici pour la libération de Paris en 1944",
+        "memorial": "plaque",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3457351,
+          48.8548802
+        ]
+      },
+      "id": "node/3412381471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228092",
+        "historic": "tomb",
+        "image": "http://commons.wikimedia.org/wiki/File:Jean-Jacques_Rousseau_%28photo_of_his_crypt%29.jpg",
+        "indoor": "yes",
+        "level": "-1",
+        "name": "Jean-Jacques Rousseau",
+        "religion": "christian",
+        "start_date": "1794",
+        "subject:wikidata": "Q6527",
+        "subject:wikipedia": "en:Jean-Jacques Rousseau",
+        "tomb": "crypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34644,
+          48.8462169
+        ]
+      },
+      "id": "node/3422228092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228193",
+        "artist_name": "François-Léon Sicard",
+        "direction": "290",
+        "historic": "memorial",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/d/d1/La_Convention_Nationale_by_Fran%C3%A7ois-L%C3%A9on_Sicard%2C_Paris_July_2013.jpg",
+        "indoor": "yes",
+        "inscription": "La Convention Nationale",
+        "level": "0",
+        "memorial:type": "statue",
+        "name": "La Convention Nationale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3465857,
+          48.8460984
+        ]
+      },
+      "id": "node/3422228193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228194",
+        "historic": "tomb",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/9/90/Mogila-Marii-Kyuri.jpg",
+        "indoor": "yes",
+        "inscription": "Marie Curie-Sklodowska, 1867-1934",
+        "level": "-1",
+        "name": "Marie Curie",
+        "religion": "christian",
+        "start_date": "1995",
+        "subject:wikidata": "Q7186",
+        "subject:wikipedia": "en:Marie Curie",
+        "tomb": "crypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3461084,
+          48.8464367
+        ]
+      },
+      "id": "node/3422228194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228195",
+        "direction": "150",
+        "historic": "memorial",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/9/98/Monument_a_Denis_Diderot-DSC_1963w.jpg",
+        "indoor": "yes",
+        "level": "0",
+        "memorial:type": "statue",
+        "name": "Monument à Denis Diderot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3460019,
+          48.8463326
+        ]
+      },
+      "id": "node/3422228195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228196",
+        "historic": "tomb",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/a/a0/Mogila-Pyera-Kyuri.jpg",
+        "indoor": "yes",
+        "inscription": "Pierre Curie, 1859-1906",
+        "level": "-1",
+        "name": "Pierre Curie",
+        "religion": "christian",
+        "start_date": "1995",
+        "subject:wikidata": "Q37463",
+        "subject:wikipedia": "en:Pierre Curie",
+        "tomb": "crypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3461112,
+          48.8464358
+        ]
+      },
+      "id": "node/3422228196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228204",
+        "historic": "tomb",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/f/f4/Panth%C3%A9on_Voltaire3.JPG",
+        "indoor": "yes",
+        "inscription": "Aux manes de voltaire; L'assemblee nationale adécreté le 30 May 1791 quil avoit merité les honneurs dus aux grands hommes",
+        "level": "-1",
+        "name": "Voltaire",
+        "religion": "christian",
+        "start_date": "1791",
+        "subject:wikidata": "Q9068",
+        "subject:wikipedia": "en:Voltaire",
+        "tomb": "crypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3463612,
+          48.8460335
+        ]
+      },
+      "id": "node/3422228204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228205",
+        "direction": "20",
+        "historic": "memorial",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/e/ef/Interior_of_Panth%C3%A9on_1%2C_Paris_29_September_2012.jpg",
+        "indoor": "yes",
+        "inscription": "Voltaire",
+        "level": "-1",
+        "memorial:type": "statue",
+        "name": "Voltaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3463711,
+          48.8460535
+        ]
+      },
+      "id": "node/3422228205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228206",
+        "direction": "330",
+        "historic": "memorial",
+        "indoor": "yes",
+        "inscription": "A la gloire des généraux de la révolution française",
+        "level": "0",
+        "memorial:type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3462178,
+          48.8460609
+        ]
+      },
+      "id": "node/3422228206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228207",
+        "direction": "60",
+        "historic": "memorial",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/6/63/Pantheon_3%2C_Paris_May_11%2C_2013.jpg",
+        "indoor": "yes",
+        "level": "0",
+        "memorial:type": "statue",
+        "name": "Pantheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3458971,
+          48.8461246
+        ]
+      },
+      "id": "node/3422228207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422228209",
+        "direction": "240",
+        "historic": "memorial",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/d/de/Orateurs_et_Publicistes_de_la_Restauration_11226.JPG",
+        "indoor": "yes",
+        "inscription": "Aux orateurs et aux publicistes de la restauration",
+        "level": "0",
+        "memorial:type": "statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3463162,
+          48.8462702
+        ]
+      },
+      "id": "node/3422228209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3611368951",
+        "heritage:operator": "mhs",
+        "historic": "citywalls",
+        "mhs:inscription_date": "1889",
+        "name": "Enceinte de Philippe-Auguste",
+        "ref:mhs": "PA00088513",
+        "source:heritage": "data.gouv.fr:Ministère de la Culture - 08/2011",
+        "wikidata": "Q22924491",
+        "wikipedia": "fr:Enceinte de Philippe Auguste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3386521,
+          48.8545958
+        ]
+      },
+      "id": "node/3611368951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3916327861",
+        "author": "Jan Dibbets",
+        "historic": "memorial",
+        "inscription": "Arago",
+        "memorial": "plaque",
+        "name": "Hommage à Arago",
+        "source": "survey",
+        "tourism": "artwork",
+        "wikidata": "Q3139724",
+        "wikipedia": "fr:Hommage à Arago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3364751,
+          48.8462932
+        ]
+      },
+      "id": "node/3916327861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3916327862",
+        "author": "Jan Dibbets",
+        "historic": "memorial",
+        "inscription": "Arago",
+        "memorial": "plaque",
+        "name": "Hommage à Arago",
+        "source": "survey",
+        "tourism": "artwork",
+        "wikidata": "Q3139724",
+        "wikipedia": "fr:Hommage à Arago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3364727,
+          48.8463461
+        ]
+      },
+      "id": "node/3916327862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3916328161",
+        "author": "Jan Dibbets",
+        "historic": "memorial",
+        "inscription": "Arago",
+        "memorial": "plaque",
+        "name": "Hommage à Arago",
+        "source": "survey",
+        "tourism": "artwork",
+        "wikidata": "Q3139724",
+        "wikipedia": "fr:Hommage à Arago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3364775,
+          48.8462425
+        ]
+      },
+      "id": "node/3916328161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3916334758",
+        "author": "Jan Dibbets",
+        "historic": "memorial",
+        "inscription": "Arago",
+        "memorial": "plaque",
+        "name": "Hommage à Arago",
+        "source": "survey",
+        "tourism": "artwork",
+        "wikidata": "Q3139724",
+        "wikipedia": "fr:Hommage à Arago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3365257,
+          48.8448166
+        ]
+      },
+      "id": "node/3916334758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3945896557",
+        "author": "Jan Dibbets",
+        "historic": "memorial",
+        "inscription": "Arago",
+        "memorial": "plaque",
+        "name": "Hommage à Arago",
+        "source": "survey",
+        "tourism": "artwork",
+        "wikidata": "Q3139724",
+        "wikipedia": "fr:Hommage à Arago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3365199,
+          48.8444216
+        ]
+      },
+      "id": "node/3945896557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046248656",
+        "addr:city": "Paris",
+        "addr:housenumber": "11",
+        "addr:postcode": "75004",
+        "addr:street": "Rue François Miron",
+        "historic": "building",
+        "name": "Maison à colombages",
+        "name:fr": "Maison à colombages",
+        "name:fr_1": "Maison à pans de bois",
+        "wikidata": "Q28524614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356878,
+          48.8558117
+        ]
+      },
+      "id": "node/4046248656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4051544986",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "memorial": "plaque",
+        "name": "Charlotte Delbo",
+        "subject:wikidata": "Q452272",
+        "subject:wikipedia": "fr:Charlotte Delbo",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3514071,
+          48.8439358
+        ]
+      },
+      "id": "node/4051544986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6621488232",
+        "description": "Aqueduc Médicis : Regard Saint-Magloire",
+        "historic": "building",
+        "inscription": "Regard des eaux d'Arcueil à l'usage de l'institut national des sourds-muets réédifié en l'année MDCCCXLVI",
+        "name": "Regard Saint-Magloire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3393405,
+          48.8436422
+        ]
+      },
+      "id": "node/6621488232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393087491",
+        "author": "Jan Dibbets",
+        "historic": "memorial",
+        "inscription": "Arago",
+        "memorial": "plaque",
+        "name": "Hommage à Arago",
+        "source": "survey",
+        "tourism": "artwork",
+        "wikidata": "Q3139724",
+        "wikipedia": "fr:Hommage à Arago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3365191,
+          48.847834
+        ]
+      },
+      "id": "node/4393087491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416368803",
+        "historic": "memorial",
+        "inscription": "Conrad Iret I Musté 1906-1942 Premier chef des groupes armés de la M.O.I. (main d'oeuvre immigrée) décédé dans la prison de la Santé le 27 février 1942 Mort pour la France",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3382787,
+          48.8344782
+        ]
+      },
+      "id": "node/4416368803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416368898",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici Alain-Fournier 1886-1914 a écrit Le Grand Meaulnes avant de disparaître sur les Hauts-de-Meuse le 22 septembre 1914. \"Je cherche quelque chose de plus mystérieux encore...\"",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338114,
+          48.8368342
+        ]
+      },
+      "id": "node/4416368898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416368900",
+        "historic": "memorial",
+        "inscription": "En cette prison le 11 novembre 1940 furent incarcérés des lycéens et des étudiants qui à l'appel du Général De Gaulle se dressèrent les premiers contre l'occupant",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3414314,
+          48.8346074
+        ]
+      },
+      "id": "node/4416368900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4416368997",
+        "historic": "memorial",
+        "inscription": "Ici vécu d'avril à juin 1943 Max pseudonyme de Jean Moulin chef de la Résistance 1899-1943 Délégué du Général De Gaulle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3370293,
+          48.8372142
+        ]
+      },
+      "id": "node/4416368997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465816551",
+        "historic": "memorial",
+        "inscription:fr": "Dans cette maison a habité Alexandre Rochais né le 3 août 1886, militant de le 6è section de l'ARAC arrêté le 9 juin 1943, asassiné le 18 septembre 1943 à Buchenwald",
+        "memorial": "plaque",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3426886,
+          48.8532556
+        ]
+      },
+      "id": "node/4465816551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4467059496",
+        "historic": "memorial",
+        "inscription:fr": "Vladimir Lossky 1903 - 1958 Théologien orthodoxe. Expulsé de Russie en 1922, avec son père philosophe. Epris de la France, médiéviste, naturalisé français en 1939. Résistant. Il s'installe dans cet immeuble en 1947 et y meurt en 1958.",
+        "memorial": "plaque",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3590643,
+          48.8509702
+        ]
+      },
+      "id": "node/4467059496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4467059497",
+        "historic": "memorial",
+        "inscription:fr": "À la mémoire des élèves de cette école déportés de 1942 à 1944 parce qu'ils étaient nés juifs. Victimes innocentes de la barbarie nazie avec la complicité active du gouvernement de Vichy. Ils furent exterminés dans les camps de la mort.",
+        "memorial": "plaque",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3572224,
+          48.8515509
+        ]
+      },
+      "id": "node/4467059497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559074957",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici est tombé pour la Libération Ternard Marcel Gardien de la paix le 21 août 1944",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-21",
+        "source": "survey",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3464055,
+          48.8539085
+        ]
+      },
+      "id": "node/4559074957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4559074958",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici fut reçu le 24 août 1944 d'un avion léger de la 2e Division Blindée le message du Général Leclerc aux Parisiens Combattants \"Tenez bon, nous arrivons\" lancé par le Capitaine Jean Callet et par le Lieutenant Etienne Mantoux mort au Champ d'honneur",
+        "memorial": "plaque",
+        "name": "Tenez bon, nous arrivons",
+        "source": "survey",
+        "tourism": "information",
+        "url": "https://commons.m.wikimedia.org/wiki/File:Tenez_bon_nous_arrivons.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346901,
+          48.8537236
+        ]
+      },
+      "id": "node/4559074958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4655482123",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici est tombé glorieusement pour la Libération de Paris le Gardien de La Paix Suire Joseph du 7e arrondissement le 20 août 1944",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-20",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3525491,
+          48.8353688
+        ]
+      },
+      "id": "node/4655482123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4655511934",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici le 16 juillet 1942 furent amenés par la police de l'Etat français des hommes et des femmes et des enfants juifs du XIIIeme arrondissement avant d'être conduits au Vel d'Hiv puis déportés au camp nazi d'extermination d'Auschwitz-Birkenau",
+        "memorial": "plaque",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3544319,
+          48.8326493
+        ]
+      },
+      "id": "node/4655511934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694734679",
+        "historic": "memorial",
+        "inscription": "ici est tombé les armes à la main pour la Libération de Paris le 20 août 1944 Guy Rouzaud 23 ans lieutenant F.F.I.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3454153,
+          48.8406341
+        ]
+      },
+      "id": "node/4694734679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4781345803",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici a été mortellement bléssé pour la Libération de Paris BOTTINE Robert Brigadier des Gardins de la Paix du VIe arrondissement le 19 août 1944",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3428831,
+          48.8513172
+        ]
+      },
+      "id": "node/4781345803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4781377981",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici a été tué pour la Libération le 19 août 1944 le Gardien de la Paix PERRONY et 30 autres français",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3639989,
+          48.8439213
+        ]
+      },
+      "id": "node/4781377981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783422048",
+        "historic": "memorial",
+        "inscription": "Ici est tombé le 25 août 1944 à l'âge de 22 ans Robert Faille F.F.I. Croix de Guerre",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-25",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3408485,
+          48.8478085
+        ]
+      },
+      "id": "node/4783422048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783422049",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Vulpian - Professeur à la Faculté de Médecine de Paris - Secrétaire perpétuel de l'Académie des Sciences - Né à Paris le 5 janvier 1826 est mort dans cette maison le 18 mai 1887",
+        "memorial": "plaque",
+        "person:date_of_death": "1887-05-18",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3417029,
+          48.847299
+        ]
+      },
+      "id": "node/4783422049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840666612",
+        "historic": "memorial",
+        "inscription:fr": "Arrêtés par la police française de Vichy, livrés à l'occupant nazi, 10 habitants de cette cité furent déportés de France de 1942 à 1944 et assassinés à Auschwitz parce qu'ils étaient nés juifs",
+        "memorial": "plaque",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358401,
+          48.834938
+        ]
+      },
+      "id": "node/4840666612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840666614",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici vécu de 1934 à 1944 Robert Desnos poète français. Arrêté par la Gestapo et déporté, il trouva la mort parce qu'il était épris de liberté, de progrès et de justice",
+        "memorial": "plaque",
+        "source": "survey 2017",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3379009,
+          48.8550787
+        ]
+      },
+      "id": "node/4840666614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896667996",
+        "addr:city": "Paris",
+        "addr:housenumber": "124",
+        "addr:street": "Rue de Rennes",
+        "historic": "memorial",
+        "inscription": "José Rizal (1861–1896) héros national des Philippines vécut dans cette maison en 1883.",
+        "memorial": "plaque",
+        "name": "José Rizal: 1861–1896",
+        "start_date": "1959",
+        "wikidata": "Q30131050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3264234,
+          48.8466729
+        ]
+      },
+      "id": "node/4896667996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4934210442",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr:1": "A la mémoire des enfants, élèves de cette école déportés de 1942 à 1944 parce qu'ils étaient nés juifs, victimes innocentes de la barbarie nazie avec la complicité active du gouvernement de Vichy.",
+        "inscription:fr:2": "Ils furent exterminés dans les camps de la mort. Ne les oublions jamais",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3476901,
+          48.8463186
+        ]
+      },
+      "id": "node/4934210442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4934383029",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici est tombé le 25 août 1944 le Lieutenant Martinet du 1er Bataillon d'Eure et Loir pour la Libération de Paris",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3388358,
+          48.8440886
+        ]
+      },
+      "id": "node/4934383029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4934391756",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Le 19 août 1944 le brigadier des gardiens de la paix Rey Marcel est tombé ici pour la Libération de Paris",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-19",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3490794,
+          48.8536924
+        ]
+      },
+      "id": "node/4934391756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947723040",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici vécut de 1939 à 1999 Eva de Vitray-Meyerovitch philosophe, femme de lettres, traductrice du poète Rûmi",
+        "memorial": "plaque",
+        "source": "survey 2017",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3460647,
+          48.8404323
+        ]
+      },
+      "id": "node/4947723040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947723042",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Ici vivait, ici mourut le poète Guillevic 1907-1997 Grand Prix de la Poésie de l'Académie Française. \"Nous ferons de la terre une cathédrale sans murs\" (Paroi)",
+        "memorial": "plaque",
+        "source": "survey 2017",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3457168,
+          48.8403051
+        ]
+      },
+      "id": "node/4947723042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947723045",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Au cours de son premier séjour à Paris en 1885, Sigmund Freud résida dans cet hôtel alors appelé Hôtel de la Paix",
+        "memorial": "plaque",
+        "source": "survey 2017",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3408828,
+          48.8455615
+        ]
+      },
+      "id": "node/4947723045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947723047",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Paul Mounet, tragédien, né le 5 octobre 1847 à Bergerac, mort dans cette maison le 10 février 1922",
+        "memorial": "plaque",
+        "source": "survey 2017",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3411911,
+          48.8475504
+        ]
+      },
+      "id": "node/4947723047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947723048",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:fr": "Le 23 octobre 1844, ici naquit Sarah Bernhardt, gloire de notre théâtre",
+        "memorial": "plaque",
+        "source": "survey 2017",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341995,
+          48.8505811
+        ]
+      },
+      "id": "node/4947723048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048179043",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici s'élevait la maison qu'André-Marie Ampère habita de 1818 à sa mort et où en 1820 il découvrit les forces électrodynamiques",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3518845,
+          48.8465861
+        ]
+      },
+      "id": "node/5048179043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048229106",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Arnold NETTER 1855-1936 dont les travaux et la vie exemplaires ont illustré la Médecine et la France a vécu dans cet immeuble",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3426558,
+          48.8516594
+        ]
+      },
+      "id": "node/5048229106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048258638",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici est tombé pour la libération de Paris Ferdinand KRONIS victome civile 25 août 1944",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3406671,
+          48.8522624
+        ]
+      },
+      "id": "node/5048258638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048258639",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Gilbert Cesbon 1913 - 1979 écrivain vécut ici de 1946 à 1979",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3396889,
+          48.8523866
+        ]
+      },
+      "id": "node/5048258639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048258640",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici se trouvait de 1954 à 2005 LA LIBRAIRIE ESPAGNOLE fondée par DON ANTONIO SORIANO MOR haut lieu de la culture hispanique et de la mémoire de l'exil auxquelles il consacra sa vie",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3369308,
+          48.8526306
+        ]
+      },
+      "id": "node/5048258640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048284812",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Adam Mickiewicz poète national de la Pologne habitait ici quand fut publié à Paris son chef-d'oeuvre PAN TADEUSZ en l'année 1834",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3369547,
+          48.854451
+        ]
+      },
+      "id": "node/5048284812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048306988",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "George Sand (1804-1876) habita cette maison en 1831 puis Raymon Duncan y créa l'Académie de 1929 à 1966",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3367415,
+          48.8559701
+        ]
+      },
+      "id": "node/5048306988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048426057",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Georges MOUSTAKI Auteur Compositeur Interprète vécut dans cet immeuble de 1971 à 2013",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575738,
+          48.8515045
+        ]
+      },
+      "id": "node/5048426057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048426058",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Dans cette maison a vécu de 1938 à sa mort à l'exception des années de guerre passées dans la clandestinité VLADIMIR JANKÉLÉVITCH Philosophe 1903 - 1985",
+        "inscription:2": "\"Celui qui a été ne peut plus désormais ne pas avoir été : désormais ce fait mystérieux et profondément obscur d'avoir vécu est son viatique pour l'éternité.\" V. Jankélévitch, L'irréversible et la Nostalgie Association la Mémoire des Lieux",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3520324,
+          48.8529273
+        ]
+      },
+      "id": "node/5048426058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048426059",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "EDMOND FLEG poète dramaturge romancier a vécu 56 ans dans cette maison de 1908 jusqu'à sa mort 15 octobre 1963",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3520321,
+          48.8529328
+        ]
+      },
+      "id": "node/5048426059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048426060",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Dans cet immeuble a vécu JEAN LEYMARIE 1919-2006 Homme de lettres historien de l'art",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3497596,
+          48.8534988
+        ]
+      },
+      "id": "node/5048426060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5073643644",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Siège de la police judiciaire, rendu célèbre par le commissaire Maigret, personnage des romans de Georges Simenon, le quai des Orfèvres possède un riche passé historique malgré ses bâtiments du XIXe siècle et sa tour d'angle,",
+        "inscription:2": "pastiche médiéval de 1911. Il doit son nom aux orfèvres établis sur le quai bâti entre 1580 et 1643. Les rues Sainte-Anne et de Jérusalem y débouchaient au niveau des numéros 12-14 et 24-26, et le reliaient à la rue de Nazareth, sa parallèle.",
+        "inscription:3": "Ici naquirent Boileau et Voltaire, et résidait le premier président du Parlement, dans l'ancien hôtel du bailliage devenu à la Révolution le domicile du maire de Paris.",
+        "inscription:4": "Affecté en 1800 à la préfecture de police nouvellement créée, il disparut dans l'incendie allumé sous la Commune en mai 1871.",
+        "memorial": "plaque",
+        "name": "Quai des Orfèvres",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60242292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.342982,
+          48.8554605
+        ]
+      },
+      "id": "node/5073643644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5073643645",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "\" Bravant l'occupant dès le 15 août, déclenchant la lutte dès le 19 et la poursuivant jusqu'au 26 août, les courageux gardiens de la police parisienne ont donné à toute la nation un bel exemple de patriotisme et de solidarité",
+        "inscription:2": "qui fut l'un des premiers facteurs du succès des combats pour la Libération de la capitale.\" Citation décernée à la Préfecture de Police lors de la remise de la Croix d'Officier de la Légion d'honneur",
+        "inscription:3": "dans la Cour des Invalides le 12 octobre 1944 par le Général de Gaulle, chef du gouvernement provisoire de la République",
+        "inscription:4": "À l'occasion du 70eme anniversaire de la Libération de Paris le 25 août 1944 cette plaque a été dévoilée par Monsieur François Hollande Président de la République",
+        "inscription:5": "en hommage aux policiers qui, dès 1949, se sont engagés dans la voie courageuse de la Résistance. M. Manuel VALLS, étant Premier Ministre M. Bernard CAZENEUVE, étant Ministre de l'Intérieur",
+        "inscription:6": "Mme Anne HIDALGO étant Maire de Paris M. Bernard BOUCAULT étant Préfet de Police",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3472624,
+          48.8540793
+        ]
+      },
+      "id": "node/5073643645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5073643646",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Praefectus curatoresque urbis ad vigiles qui custodiorunt eam.",
+        "inscription:2": "Gabriel NICOLAS de la REYNIE conseiller du Roy premier lieutenant général de police de la ville prévoté et vicomté de Paris en Assura les fonctions de 1667 à 1697 mort le 14 juin 1709",
+        "inscription:3": "Homme d'une grande vertu qui dans cette place pouvait d'attirer la haine et s'acquit pourtant l'estime universelle (Saint-Simon)",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3472736,
+          48.8541369
+        ]
+      },
+      "id": "node/5073643646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5073643647",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Monsieur François MITTERRAND Président de la République a dévoilé cette oeuvre du sculpteur ARMAN le 19 août 1994 à l'occasion du 50ème anniversaire du soulévement de la Préfecture de Police de Paris.",
+        "inscription:2": "Mosieur Charles PASQUA étant Ministre d'État, Ministre de l'Intérieur et de l'Aménagement du Territoire Monsieur Philippe MESTRE étant Ministre des Anciens Combattants et Victimes de Guerre",
+        "inscription:3": "Monsieur Jacques CHIRAC étant Maire de Paris Monsieur Philippe MASSONI étant Préfet de Police",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3472858,
+          48.8541468
+        ]
+      },
+      "id": "node/5073643647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074947352",
+        "historic": "memorial",
+        "inscription": "Ici fut tué par les SS le 19 août 1944 le gardien de la paix PERRIN André",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348649,
+          48.8538228
+        ]
+      },
+      "id": "node/5074947352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074947353",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici est tombé pour la Libération MONTAURON Jean Gardien de la Paix 24 août 1944",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3475922,
+          48.8546649
+        ]
+      },
+      "id": "node/5074947353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074993223",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Pierre TRIMOUILLAT chansonnier-humoriste né en 1858 à MOULINS HABITA CETTE MAISON DE 1890 À 1929",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3512616,
+          48.8534653
+        ]
+      },
+      "id": "node/5074993223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074993224",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "HENRI BRÉMOND 1865 - 1933 prêtre et écrivain membre de l'académie française AIMAIT CETTE MAISON où il habita de 1924 À SA MORT",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35092,
+          48.8537752
+        ]
+      },
+      "id": "node/5074993224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5074993225",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ernest Dimnet 1866 - 1954 prêtre écrivain conférencier fervent artisan de l'amitié FRANCO-AMÉRICAINE pendant trente ans travailla ici avec joie",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3508351,
+          48.8538345
+        ]
+      },
+      "id": "node/5074993225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075024476",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Hommage à Marcel LE VIONNOIS (1914-2001) Gardin de la Paix résistant de 1940 à 1943 Capitaine des Forces Françaises Combattantes Déporté à Mauthausen le 10 septembre 1943",
+        "inscription:2": "Libéré le 5 mai 1945, il est réintégré en service actif dès 1946. Affecté aux Compagnies Motocyclistes de la Préfecture de Police de 1947 à 1971, puis nommé Commandant Principal il en a pris la direction dès 1956.",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3507187,
+          48.8539123
+        ]
+      },
+      "id": "node/5075024476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075024477",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "ENCEINTE GALLO-ROMAINE DE LA CITÉ - Le tracé figuré sur le sol de cette rue désigne l'emplacement des vestiges découverts en 1898",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3502862,
+          48.8545953
+        ]
+      },
+      "id": "node/5075024477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075042064",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:0": "La mémoire des lieux",
+        "inscription:1": "Camille Claudel 1864 - 1943 sculpteur vécut et travailla dans cet immeuble, au rez-de-chaussée sur cour de 1899 à 1913.",
+        "inscription:2": "À cette date prit fin sa brève carrière d'artiste et commença la longue nuit de l'internement. \"Il y a toujours quelque chose d'absent qui me tourmente\" (Lettre à Rodin, 1886)",
+        "memorial": "plaque",
+        "operator": "La mémoire des lieux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3556198,
+          48.8528683
+        ]
+      },
+      "id": "node/5075042064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075042065",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "HÔTEL de NEVERS - PORTAIT À L'ORIGINE LE NOM DE MAISON DU ROI HENRI III",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3547924,
+          48.8531348
+        ]
+      },
+      "id": "node/5075042065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075042066",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Emplacement de la propriété du fils de Theophraste RENAUDOT Comissaire Général des Pauvres Fondateur du Journalisme",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3542934,
+          48.8532956
+        ]
+      },
+      "id": "node/5075042066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075042067",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "L'écrivain Charles-Louis Philippe 1874 - 1909 a habité cet immeuble de 1905 à 1907",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3542923,
+          48.853296
+        ]
+      },
+      "id": "node/5075042067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075078466",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "1640 maison de Marin le ROY sieur de Gomberville titulaire du 21e fauteuil à la fondation de l'académie française",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575398,
+          48.8522394
+        ]
+      },
+      "id": "node/5075078466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075078467",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "1643 demeure de Philippe de CHAMPAIGNE peintre et valet de chambre de la reine mère",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564777,
+          48.8525887
+        ]
+      },
+      "id": "node/5075078467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075078468",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "En 1695 propriété de Louis Joseph de PLAYBAULT seigneur de VILLARS capitaine au régiment de la reine",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3562526,
+          48.8526624
+        ]
+      },
+      "id": "node/5075078468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075078469",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "15 quai Bourbon dernière demeure du peintre et poète EMILE BERNARD 1868 - 1941 créateur du synthétisme initiateur de l'évolution du groupe de Pont-Aven père du symbolisme",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3561317,
+          48.852701
+        ]
+      },
+      "id": "node/5075078469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075078470",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Hotel le CHARRON controleur de l'extraordinaire des guerres en Picardie. Son petit Neveu J. J. CHARRON marquis de MENARS est neau frère de COLBERT",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560608,
+          48.852724
+        ]
+      },
+      "id": "node/5075078470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075078471",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "En 1635 ...",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560306,
+          48.8527341
+        ]
+      },
+      "id": "node/5075078471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112465",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Ici vécut CHARLES LEDERMAN 1913 - 1998 avocat dirigeant du parti communiste français conseiller de Paris sénateur du Val de Marne président de l'Union des juifs pour la Résistance et l'entraide",
+        "inscription:2": "organisateur de réseaux de sauvetage d'enfants juifs combattant antifasciste",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3591718,
+          48.8509324
+        ]
+      },
+      "id": "node/5075112465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112466",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "PETIT HOTEL DE MARIGNY élevé en 1640 - Habité par Rennequin créateur de la machine de Marly",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3598562,
+          48.851251
+        ]
+      },
+      "id": "node/5075112466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112467",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "1642 hotel construit pour Jacques BREBART marchand de fer. Siège de la corporation des MAITRES BOULANGERS depuis 1843",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3597779,
+          48.8513296
+        ]
+      },
+      "id": "node/5075112467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112468",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Honoré DAUMIER peintre sculpteur lithographe habita cette maison de 1846 à 1863 hommage de la SOCIÉTÉ DES DESSINATEURS-HUMORISTES",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3596661,
+          48.8514253
+        ]
+      },
+      "id": "node/5075112468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112469",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "CONSTRUIT VERS 1645 POUR NICOLAS LAMBERT de THORIGNY LOUIS LE VAU ARCHITECTE ACQUIS EN 1645 PAR HENRI DIGARD",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3595495,
+          48.8514823
+        ]
+      },
+      "id": "node/5075112469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112470",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici vécut de 1743 à 1782 Henry-Louis DUHAMEL DU MONCEAU Membre de l'Académie des Sciences Inspecteur Général de la Marine Initiateur de l'Agronomie Moderne et de la Foresterie",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3594158,
+          48.8515485
+        ]
+      },
+      "id": "node/5075112470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112471",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "A. V. GEOFFROY - DECHAUME Statuaire 1816 - 1892 Directeur du Musée de Sculpture Comparée, habita cette maison pendant 42 ans. Adjoint de Viollet-le-Duc il a restitué les grands programmes de la sculpture du Moyen Âge, disparue au cours de la Révolution.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3593478,
+          48.8515829
+        ]
+      },
+      "id": "node/5075112471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112472",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Vers 1645 hotel construit pour Nicolas LAMBERT de THORIGNY président à la chambre des comptes Louis LE VAU architecte présumé",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3592777,
+          48.851619
+        ]
+      },
+      "id": "node/5075112472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112473",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "EN 1642 ICI DEMEURA LE SIEUR GABRIEL SIONITE MARONITE DU LIBAN PROFESSEUR D'ARABE AU COLLÈGE DE FRANCE",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3582162,
+          48.8520175
+        ]
+      },
+      "id": "node/5075112473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112474",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "HOTEL ci-devant du Président PERROT",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3581792,
+          48.8520305
+        ]
+      },
+      "id": "node/5075112474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075112475",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "1644 Sur l'emplacement acheté en 1621 par SALOMON de CAUX architecte du roi LOUIS XII SIMON LE BOSSU, MAITRE des Comptes construit cet Hôtel où vécut en 1691 NICOLAS II SAINCTÔT Introducteur des Ambassadeurs",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3578524,
+          48.8521422
+        ]
+      },
+      "id": "node/5075112475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178463",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Entreprise au début du XIIIe siècle, la partie méridionale de l'enceinte de Philippe-Auguste, destinée à favoriser le développement démographique de la rive gauche, s'achevait ici. Une tour faisait pendant à la tour Barbeau,",
+        "inscription:2": "et chaque nuit, des chaînes tendues entre elles protégeaient la cité de toute mauvaise surprise venue du fleuve. En 1369 un pont de bois, plusieurs fois emporté par les crues jusqu'à sa reconstruction en pierre en 1656, relie les deux rives ;",
+        "inscription:3": "une forteresse prévue pour sa défense, dite Château e la Tournelle, s'adosse à la tour.",
+        "inscription:4": "A partir de 1632, grâce à saint Vincent de Paul, elle sert à loger dans des conditions moins inhumaines les condamnés aux galères jusque-là incarcérés à la Conciergerie. L'ensemble est démoli à la fin du XVIIIe siècle.",
+        "memorial": "plaque",
+        "name": "Le château de la Tournelle",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3556493,
+          48.8496493
+        ]
+      },
+      "id": "node/5075178463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178464",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "HOTEL LEFEBVRE DE LA MALMAISON 1645 BAUDELAIRE Y VÉCUT en 1842 et 1843",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.357661,
+          48.8506048
+        ]
+      },
+      "id": "node/5075178464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178465",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Icy s'élevait L'HOTEL HESSELIN [...] des marchands construit en 1642 par LE VAU architecte du ROY [...]",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575106,
+          48.8506682
+        ]
+      },
+      "id": "node/5075178465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178466",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "GEORGES POMPIDOU 1911 - 1974 PRÉSIDENT DE LA RÉPUBLIQUE FRANÇAISE DE JUIN 1969 À AVRIL 1974 A VÉCU DANS CETTE MAISON",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3573289,
+          48.8507161
+        ]
+      },
+      "id": "node/5075178466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178467",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "HENRY BAUER 1851 - 1915 JOURNALISTE ET CRITIQUE A VÉCU DANS CETTE MAISON DE 1905 À 1915",
+        "memorial": "plaque",
+        "start_date": "1934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3595152,
+          48.8507299
+        ]
+      },
+      "id": "node/5075178467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178468",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "PETIT HOTEL BRETONVILLIERS 1639",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3590086,
+          48.8508151
+        ]
+      },
+      "id": "node/5075178468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178469",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "1640 MAISON DE M. AUBERT CONTRÔLEUR DES RENTES DE L'HÔTEL DE VILLE FAÇADE DU XVIIIeme SIÈCLE",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3568517,
+          48.8508769
+        ]
+      },
+      "id": "node/5075178469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178470",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Marie Curie 1867 - 1934 a habité cet immeuble de 1912 à 1934",
+        "memorial": "plaque",
+        "name": "Plaque Marie Curie",
+        "website": "https://commons.m.wikimedia.org/wiki/File:Plaque_Marie_Curie.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3562548,
+          48.851078
+        ]
+      },
+      "id": "node/5075178470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178471",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici vécut de 1952 à 1976 RENE CASSIN 1887 - 1976 prix nobel de la paix en 1968",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3562544,
+          48.8510782
+        ]
+      },
+      "id": "node/5075178471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178472",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Ici est né LÉON BOURGEOIS 1851 - 1925 homme politique français premier président de la société des nations en 1919 prix nobel de la paix en 1920 père du solidarisme",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3587232,
+          48.8510926
+        ]
+      },
+      "id": "node/5075178472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178473",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Dans cette maison l'ingénieur Philippe Lebon a découvert en 1799 le principe de l'éclairage et du chauffage par le gaz",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3587226,
+          48.8510928
+        ]
+      },
+      "id": "node/5075178473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178474",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Dans cet immeuble vécut avec son épouse, la pianiste Geneviève Joy, Le compositeur français Henri Dutilleux grand-croix de la légion d'honneur 1916 - 2013",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3587221,
+          48.851093
+        ]
+      },
+      "id": "node/5075178474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178475",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "À LA MÉMOIRE DES 112 HABITANTS DE CETTE MAISON DONT 40 PETITS ENFANTS DÉPORTÉS ET MORTS DANS LES CAMPS ALLEMANDS EN 1942",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564022,
+          48.8515638
+        ]
+      },
+      "id": "node/5075178475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075178476",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Maison de L'IMAGE SAINT-LOUIS habrite en 1642 le tavernier FRAMERY en 1742 le notaire DESHAYES",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3563022,
+          48.8516674
+        ]
+      },
+      "id": "node/5075178476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075190148",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Un peu au sud du château de la Tournelle et de la tour de l'enceinte de Philippe-Auguste, la muraille est percée au XVe siècle d'une porte, baptisée en souvenir de l'illustre abbé de Cîteaux, dont le collège s'élève à proximité.",
+        "inscription:2": "Elle enjambe l'ancien chemin de halage, désormais lieu de promenades et de baignades. Henri IV aimait venir y nager avec son fils, afin de l'aguerrir ;",
+        "inscription:3": "il décide en 1606 de la faire reconstruire, sous la forme d'un bâtiment carré surmonté d'un comble en pavillon.",
+        "inscription:4": "En 1674, pour remercier Louis XIV d'avoir supprimé les taxes levées sur les marchandises qui arrivaient au port Saint-Bernard, le prévôt des marchands et les échevins demandent à François Blondel d'en faire un arc de triomphe à la gloire du monarque.",
+        "inscription:5": "La présence de logements dans la partie supérieure de l'édifice conduit architecte à percer deux arches basses jumelées, au lieu d'une seule grande arcade.",
+        "inscription:6": "Sur les bas-reliefs, d'un côté le Roi-Soleil apporte l'abondance à la Ville, de l'autre, vêtu à l'antique, il conduit la nef parisienne, flanquée de néréides et de tritons.",
+        "inscription:7": "Le monument subsistre jusqu'en 1787.",
+        "memorial": "plaque",
+        "name": "La porte Saint-Bernard",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3558041,
+          48.8496
+        ]
+      },
+      "id": "node/5075190148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255435",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "En 1614 débute le lotissement et la construction de l'île, par les soins de Christophe Maris - dont ce pont a pris le nom - associé à Pouletier et Le Regrattier.",
+        "inscription:2": "Une voie centrale, deux séries de quais et trois rues de traverse constituent le maillage de cet habitat régulier et homogène achevé vers 1660.",
+        "inscription:3": "Des hôtels somptueux aux maisons les plus modestes règne sur les façades une harmonieuse diversité ; la profonde unité d'un style architectural annonce les réalisations du règne de Louis XIV.",
+        "inscription:4": "Restée à l'écart des bouleversements de la voirie et du tissu urbain des deux derniers siècles, l'île Saint-Louis a subi peu de mutilations et présente toujours l'aspect d'un paisible vaisseau de pierre ancré au milieu de la Seine.",
+        "memorial": "plaque",
+        "name": "Île Saint-Louis",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3523003,
+          48.8525281
+        ]
+      },
+      "id": "node/5075255435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255436",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Dès les origines, le blanchissage du linge s'effectue en bord de Seine. Vers la fin du Moyen Age, il s'organise avec l'apparition des premiers bateaux-lavoirs, simples barges à fond plat protégées des intempéries par une toiture de planches",
+        "inscription:2": "ou de chaume, à des emplacements délimités par le Prévôt. Ils sont environ 80 à la veille de la Révolution, installés de préférence sur la rive droite, mieux exposée au soleil.",
+        "inscription:3": "Supprimés en 1805 sous le prétexte qu'ils gênaient la navigation, les \"bateaux-lessives\" reparaissent plus nombreux sous la Restauration. Afin de lutter contre la concurrence des blanchisseries industrielles, ils accroissent leur capacité",
+        "inscription:4": "jusqu'à devenir de véritables cités flottantes : les lavandières travaillent désormais au ras de l'eau, abritées par des auvents ; à l'étage au-dessus, de vastes salles couvertes acceuillent le linge prêt à sécher.",
+        "inscription:5": "Le plus imposant d'entre eux est l'Arche Marion, formé de 12 barges et long de 200 mètres amarré entre le pont d'Arcole et le pont Notre-Dame ; 250 personnes peuvent y travailler ensemble.",
+        "memorial": "plaque",
+        "name": "L'Arche Marion",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3501035,
+          48.8550443
+        ]
+      },
+      "id": "node/5075255436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255437",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "C'est le plus ancien jardin public de quartier : créé en 1848, il précède les squares d'Haussmann. À son emplacement se trouvais le palais de l'archevêché, splendide édifice construit à partir de 1697,",
+        "inscription:2": "selon les instructions du cardinal de Noailles, et précédé à l'ouest par des vestiges de la demeure de Maurice de Sully, édifiée dans la seconde moitié du XIIe siècle et souvent remaniée.",
+        "inscription:3": "Pillé et incendié le 14 février 1831 lors d'une émeute, ce palais fut démoli et remplacé par un jardin public.",
+        "inscription:4": "Entre le chevet de Notre-Dame et la fontaine du square actuel s'élevait la petite église Saint-Denis-du-Pas, démolie en 1813.",
+        "memorial": "plaque",
+        "name": "Square Jean XXIII",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60292408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3519994,
+          48.8526264
+        ]
+      },
+      "id": "node/5075255437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255439",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Ce chêne, arbre de la liberté, a été planté le samedi 27 juin 1998, par le Cardinal Jean-Marie Lustiger, Archevêque de Paris en présence de Monseiur Jean Tiberi, Maire de Paris à al mémore de Monseigneur Denys-Auguste AFRE (1793 - 1848)",
+        "inscription:2": "Archevêque de Paris, atteint par un coup de fusil alors qu'il se rendait en médiateur, le dimanche 25 juin 1848, vers une barricade du faubourg Saint-antoine, dernier point de l'insurrection de juin 1848.",
+        "inscription:3": "Il meurt le matin du 27 juin à l'archevêché situé sur lÎle Saint-Louis.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3506542,
+          48.8522142
+        ]
+      },
+      "id": "node/5075255439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255441",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Angelo Giuseppe Roncalli Nonce Apostolique en France 1945 - 1953 261ème Pape Jean XXIII 1958 - 1963",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3487423,
+          48.8527664
+        ]
+      },
+      "id": "node/5075255441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255442",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "YVONNE NETTER avocate militante féministe journaliste résistante internée évadée habita et aima cette maison du 4 octobre 1911 au 30 août 1985",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3520059,
+          48.853174
+        ]
+      },
+      "id": "node/5075255442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255443",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "René COTY président de la République 1954 - 1959 a habité cette maison avec son épouse Germaine CORBLET d'octobre 1936 au 16 janvier 1954",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3518987,
+          48.853576
+        ]
+      },
+      "id": "node/5075255443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5075255444",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Le poète Edmont HARAUCOURT né à BOURMONT(Hte Marne) en 1856 est mort dans cette maison le 17 novembre 1941",
+        "memorial": "plaque",
+        "person:date_of_death": "1941-11-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3518985,
+          48.8535768
+        ]
+      },
+      "id": "node/5075255444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5162702556",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "A la mémoire de WILLY EHRHARDT tombé ici le 21 août 1944 à l'âge de 37 ans",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3437436,
+          48.8530584
+        ]
+      },
+      "id": "node/5162702556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200929510",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Le 16 mars 1627 Louis XIII pose la première pierre de l'église des Jésuites. Construite par le père François Derand sur les plans du frère Martellange, elle est consacrée le 9 mai 1641 sous le vocable de saint Louis. Célèbre pour ses prédicateurs,",
+        "inscription:2": "notamment Bourdaloue, elle possède un riche mobilier, et de nombreuses œuvres d'art en harmonie avec son style inspiré du baroque italien. La plupart ont disparu à la Révolution. À sa réouverture, en 1802, l'église adopte le nom de Saint-Paul-Saint-Louis",
+        "inscription:3": "pour conserver le souvenir de l'église paroissiale Saint-Paul, située dans la rue du même nom et détruite en 1799.",
+        "memorial": "plaque",
+        "name": "Église Saint-Paul-Saint-Louis",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3617573,
+          48.8548043
+        ]
+      },
+      "id": "node/5200929510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200950552",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "HÔTEL de CHALON-LUXEMBOURG bâti vers 1625 pour Guillaume PERROCHEL et Françoise BUISSON, sa femme, donné à la ville de PARIS par Jean WALTER (1883-1957) architecte, fondateur des bourses ZELLIDJA. Gabriele d'ANNUNZIO y vécut en 1914.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3566905,
+          48.8549905
+        ]
+      },
+      "id": "node/5200950552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200950553",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "En 1580, le cardinal Charles de Bouroon offrit aux Jésuites l'hôtel de La Rochepot qui devint leur maison de profès, dite couvent des Grands Jésuites. Ils l'embellirent et l'agrandirent progressivement jusqu'à la rue de Jouy, aujourd'hui Charlemagne.",
+        "inscription:2": "Le 6 août 1762, le Parlement de Paris prononça l'expulsion de cet ordre, et la maison fut attribuée aux Génovéfains du prieuré voisin de Sainte-Catherine-du-Va-des-Ecoliers, établi de l'autre côté de la rue Saint-Antoine. Le 22 octobre 1797, l'une des",
+        "inscription:3": "trois écoles centrales de Paris y fut installée; elle devint en octobre 1804 le lycée Charlemagne.",
+        "memorial": "plaque",
+        "name": "Lycée Charlemagne",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3613784,
+          48.8549177
+        ]
+      },
+      "id": "node/5200950553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200979741",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "PASSAGE AMPLIFIÉ - Oeuvre sonore de Miriam Bäckstrom et Carsten Höllet - Commande publique de la Ville de Paris",
+        "inscription:2": "En hommage aux enfants juifs de la France déportés pendant la Seconde Guerre Mondiale. De 1942 à 1944, 11400 enfants juifs, dont 6100 parisiens, ont été déportés de France vers les camps d’extermination avec la complicité du gouvernement de Vichy.",
+        "inscription:3": "De ces enfants, presque tous assassinés, il ne reste que la mémoire que l’on veut bien garder d’eux. Pour que vive cette mémoire, les artistes Miriam Bäckström et Carsten Höller proposent ici une œuvre sonore : Passage amplifié.",
+        "inscription:4": "Les voix et les sons de la ville sont captés par des micros et amplifiés, sans être enregistrés, en étant subtilement modifiés, de telle manière que, dans un espace délimité, ils semblent ne venir de nulle part. Transformées, distanciées, rendues à une",
+        "inscription:5": "forme d’intimité, les voix d’un instance deviennent celles d’une mémoire toujours à renouveler et qui porte parmi les vivants le souvenir des disparus.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564288,
+          48.8549862
+        ]
+      },
+      "id": "node/5200979741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200979742",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Collège François COUPERIN dit \"LE GRAND\" 1668-1733 AUTEUR DE \"L’ART DE ROUCHER LE CLAVECIN\" IL TINT LES ORGUES de l’EGLISE St GERVAIS.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564307,
+          48.8549854
+        ]
+      },
+      "id": "node/5200979742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200979743",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "ARRÉTÉS PAR LA POLICE DU GOUVERNEMENT DE VICHY, COMPLICE DE L’OCCUPANT NAZI, PLUS DE 11000 ENFANTS FURENT DÉPORTÉS DE FRANCE DE 1942 A 1944 ET ASSASSINÉS À AUSCHWITZ PARCE QU’ILS ÉTAIENT NÉS JUIFS. PLUS DE 500 ENFANTS VIVAIENT DANS LE 4ème",
+        "inscription:2": "ARRONDISSEMENT, PARMI EUX LES ÉLÈVES DE CETTE ÉCOLE. NE LES OUBLIONS JAMAIS. Le 15 décembre 2001.",
+        "memorial": "plaque",
+        "start_date": "15-12-2001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356438,
+          48.8549823
+        ]
+      },
+      "id": "node/5200979743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5201026073",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Dominique de Villepin, Premier ministre – Ehud Olmer, Premier ministre de l’État d’Israël – Bertand Delanoë, Maire de Paris – Eric de Rothschild, Président du Mémorial de la Shoah – ont inauguré le Mur des Justes le 14 juin 2006.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560228,
+          48.8550439
+        ]
+      },
+      "id": "node/5201026073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5201026074",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Sur ce mur sont gravés les noms des justes de France qui ont sauvé des juifs pendant la seconde guerre mondiale, parfois au péril de leur vie. Le titre de juste est conféré par l’État d’Israël et décerné par le mémorial Yad Vashem à Jérusalem en hommage",
+        "inscription:2": "à ces non-juifs qui ont agi avec courage et abnégation. Bravant l’indifférence qui semblait régner dans notre pays, individuellement ou au sein de réseaux, ces femmes et ces hommes de toutes conditions politiques, sociales et religieuses avaient en",
+        "inscription:3": "commun le refus de la barbarie, le sens de la solidarité et des responsabilités. Caches, faux-papiers, nourriture, passage de frontières, les justes ont apporté une aide matérielle et morale essentielle contribuant au sauvetage des trois quarts des",
+        "inscription:4": "juifs de France alors persécutés par le régime de Vichy et l’occupant nazi. Il faut également rappeler la mémoire des juifs qui seuls ou dans des réseaux de résistance se sont battus pour sauver leur communauté. Ce mur marque notre reconnaissance envers",
+        "inscription:5": "toutes ces femmes et ces hommes connus, mais aussi envers les milliers d’inconnus qui ont œuvré de façon discrète et efficace pendant ces temps dramatiques. Leur comportement constitue un modèle pour toutes les générations à venir.",
+        "inscription:6": "Les noms qui figurent sur ce mur sont présentés par année d’attribution du titre, par ordre alphabétique et avec la mention du lieu où le sauvetage s’est déroulé.",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3563703,
+          48.8549013
+        ]
+      },
+      "id": "node/5201026074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5203388432",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "La veille du solstice d'été était jour de liesse pour les parisiens. Les magistrats faisaient édifier sur la place de la Grève un vaste bûcher, garni d'un mât haut de vingt mètres et couronné de fleurs. Des fusées et des pétards s'accrochaient en grappe",
+        "inscription:2": "autour d'une statue placée au centre de cette montagne de combustible. Le Bureau de la Ville s'avançait sur la place, une torche de cire jaune à la main, et présentait au roi une autre torche, blanche, ornée de poignées de velours rouge.",
+        "inscription:3": "Aussitôt le feu allumé, vingt couleuvrines rangées en bord de Seine tiraient trois salves consécutives; archers et arquebusiers avaient peine à contenir les badauds, qui se ruaient sur les collations et même sur les cendres et les tisons, considérés",
+        "inscription:4": "comme des talismans! Toute la nuit, les bouquetières parcouraient la ville, criant à tue-tête \"Des bouquets pour Jeannot-Jeannette !\" Même si les rois cessent peu à peu d'y assister, ces réjouissances populaires demeurent très vivantes jusqu'à la fin du",
+        "inscription:5": "XVIIIe siècle.",
+        "memorial": "plaque",
+        "name": "Les feux de la Saint-Jean",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3516214,
+          48.8558149
+        ]
+      },
+      "id": "node/5203388432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5203388433",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "Ce jardin rend hommage aux combattants de la Nueve (9e Compagnie), unité de choc de la 2e Division blindée du Général Leclerc, arrivée la première à l'Hôtel de Ville à la Libération le 24 août 1944. Elle était majoritairement composée de républicains",
+        "inscription:2": "espagnols réfugiés en France après la victoire de Franco. Une statue équestre représente Étienne Marcel, prévôt des marchands de Paris au XIVe siècle et figure fondatrice de l'administration parisienne. Elle est l’œuvre de Jean-Antoine-Marie Idrac et de",
+        "inscription:3": "Laurent Marqueste. Autrefois jardin privé du préfet de la Seine, puis du maire de Paris, c'est aujourd'hui le jardin de la crèche de l'Hôtel de Ville. Il est ouvert au public depuis 2015.",
+        "memorial": "plaque",
+        "name": "Jardin des Combattants-de-la-Nueve",
+        "operator": "Mairie de Paris",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3526631,
+          48.8556128
+        ]
+      },
+      "id": "node/5203388433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5203388434",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "COMMUNE DE PARIS. 140e ANNIVERSAIRE 1871-2011. CASERNE LOBAU - EXÉCUTIONS EN MASSE PENDANT LA SEMAINE SANGLANTE - MAI 1871. UNE COUR MARTIALE DESTINÉE À JUGER RAPIDEMENT LES COMMUNARDS OU SUSPECTS DE L'ÊTRE FUT RÉUNIE DU 24 AU 29 MAI 1871 AU THÉÂTRE DU",
+        "inscription:2": "CHÂTELET. LES CONDAMNÉS À MORT ÉTAIENT DIRIGÉS VERS LA CASERNE LOBAU AUSSITÔT ARRIVÉS ILS ÉTAIENT FUSILLÉS DANS CES LIEUX DE FAÇON SOMMAIRE. LES EXÉCUTIONS DURÈRENT SANS DISCONTINUER CINQ JOURS. LES ESTIMATIONS DU NOMBRE DE FUSILLÉS VONT DE 2000 À 3000",
+        "inscription:3": "PERSONNES. LES CADAVRES ÉTAIENT RAPIDEMENT ENTERRÉS DANS LES SQUARES AVOISINANTS FERMÉS AU PUBLIC.\"un bruit lugubre emplit la caserne Lobau: c'est le tonnerre ouvrant et fermant le tombeau.\" Victor Hugo, L'année terrible 1871",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3532845,
+          48.8556185
+        ]
+      },
+      "id": "node/5203388434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321036578",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "ÉLUS DU XIVème À LA COMMUNE DE PARIS ADMINISTRANT L'ARRONDISSEMENT 26 MARS - 23 MAI 1871 - BILLIORAY ALFRED-ÉDOUARD - DESCAMPS BAPTISTE - MARTELET JULES",
+        "level": "2",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.327169,
+          48.832994
+        ]
+      },
+      "id": "node/5321036578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321036579",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "AUX HÉROS TOMBÉS SUR LES BARRICADES 18-25 AOÛT 1944 ALVIGER RENÉ - AURIAC FÉLIX - BARON LOUIS - BATTUT JEAN - BEDEAU HENRI - BIGUET JEAN - BOULOGNE JEAN - BRELIVET LOUIS - DAGUET RAOUL - DUBREUIL ANDRÉ - FAUCHER ANDRÉ - GAGET LUCIEN - GARDELLE ANDRÉ -",
+        "inscription:2": "GATHELIER GASTON - GUILLOIS MICHEL - GUYOT HENRI - HALLER ALCIDE - JACQUINOT LUDOVIC - LANOT JEAN - LAURENS MAURICE - LE BAIL RENÉ - LEMOINE ROGER - LE PAPE MARCEL - MAUCLERC AUGUSTE - MOREAU CLÉMENT - ORSINI MICHEL - PERIER HENRI - POMMIER GUSTAVE -",
+        "inscription:3": "REITTER ROGER - SUSINE JACQUES - TAYLOR MAURICE",
+        "level": "0",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.326995,
+          48.832994
+        ]
+      },
+      "id": "node/5321036579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321036580",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Le 19 août 1944 à 16 heures Le COMITÉ LOCAL DE LIBÉRATION organisé dans la clandestinité s'est emparé de la Mairie d'où il a dirigé l'insurrection nationale dans le 14ème arrondissement jusqu'au 25 août 1944 tout en administrant l'arrondissement.",
+        "level": "0",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3269874,
+          48.8329959
+        ]
+      },
+      "id": "node/5321036580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321036581",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "LE XIVème ARRONDISSEMENT DE PARIS À SES ENFANTS MORTS POUR LA FRANCE - C'est du dernier soupir de nos héros qu'est fait le souffle immortel de la partie",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3268716,
+          48.8327354
+        ]
+      },
+      "id": "node/5321036581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5321036582",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "ICI VÉCUT MARYSE BASTIÉ AVIATRICE COMMANDEUR DE LA LÉGION D'HONNEUR 1898 - 1952",
+        "memorial": "plaque",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3287443,
+          48.8354801
+        ]
+      },
+      "id": "node/5321036582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5351430694",
+        "historic": "memorial",
+        "name": "Cénotaphe de Charles Baudelaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3284993,
+          48.837416
+        ]
+      },
+      "id": "node/5351430694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371367038",
+        "artist_name": "Maria Kwietniewska",
+        "description": "Bustes en l'honneur de Marie et Pierre Curie",
+        "historic": "memorial",
+        "memorial": "bust",
+        "start_date": "1950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3445551,
+          48.8441243
+        ]
+      },
+      "id": "node/5371367038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5422682876",
+        "historic": "memorial",
+        "inscription:fr": "Honneur aux défenseus du Fortin de la Huchette qui sont tombés dans le secteur pour la délivrance de Paris. 2 anonymes et Jean Dussarps 28 ans les 19 et 25 août 1944",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-25",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.346518,
+          48.8528243
+        ]
+      },
+      "id": "node/5422682876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5422845471",
+        "historic": "memorial",
+        "inscription:fr": "Honneur aux héros tombés pour la Libération de Paris. Offert par les Cellules Communistes et les habitants du quartier du Jardin des Plantes 18-24 août 1944",
+        "memorial": "plaque",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3640153,
+          48.8439065
+        ]
+      },
+      "id": "node/5422845471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5422845472",
+        "historic": "memorial",
+        "inscription:fr:1": "Michel Saltzermann dit Fred, juif de Bessarabie, premier commandant de la FTP MOI des bataillons Carmagnole et Liberté a été tué par les troupes allemandes le 19 août 1944 au 2è jour de la libération de Paris.",
+        "inscription:fr:2": "Il défendait le pont d'Austerlitz à la tête d'un groupe de partians. Lui et ses 30 compagnons sont morts pour la France",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-19",
+        "source": "survey 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3638399,
+          48.8447585
+        ]
+      },
+      "id": "node/5422845472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509120751",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription": "Le Sénat en hommage aux insurgés de la Commune de Paris fusillés contre ce mur le 25 mai 1871",
+        "memorial": "plaque",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3376524,
+          48.8459998
+        ]
+      },
+      "id": "node/5509120751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5716577782",
+        "board_type": "history",
+        "historic": "memorial",
+        "information": "board",
+        "inscription:1": "En 1602, Henri IV loue ici pour ses tapissiers flamands des ateliers qui s'étendent jusqu'aux rives de la Bièvre, où travaillent depuis un siècle et demi les teinturiers Gobelins. Colbert décide en 1602 d'y fonder \"la manufacture royale des meubles de",
+        "inscription:2": "la Couronne\". Les tapisseries de ces ateliers sont mondialement célèbres, des plus anciennes de Rubens (1622) aux compositions du Directeur de la Manufacture sous Colbert, Charles Le Brun, et d'autres peintres des XVIIe et XVIIIe siècles :",
+        "inscription:3": "Mignard, les Coypel, Desportes, Jouvenet, De Troy, Oudry... Au XIXe siècle, les travaux du chimiste Chevreul permettent de classer des milliers de teintes stables. En 1825, les tapis de la Savonnerie sont rattachés aux Gobelins, et de 1940 à 1988, les",
+        "inscription:4": "tapisseries de Beauvais seront tissées aux Gobelins, leurs ateliers ayant été bombardés. Ces manufactures sont dirigées depuis 1937 par le Mobilier National, dont les locaux, construits en 1935 par Auguste Perret, se trouvent rue Berbier-du-Mets,",
+        "inscription:5": "derrière les Gobelins. Au XXe siècle ont été tissées pour le Mobilier National des oeuvres de Dufy, Matisse, Chagall, Picasso, Miro, Vieira da Silva...",
+        "memorial": "plaque",
+        "name": "Manufacture des Gobelins",
+        "operator": "Mairie de Paris",
+        "title": "Histoire de Paris",
+        "tourism": "information",
+        "wikidata": "Q60291805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3526634,
+          48.8352241
+        ]
+      },
+      "id": "node/5716577782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5729901137",
+        "historic": "memorial",
+        "memorial": "stele",
+        "name": "Monument des Fédérés",
+        "subject:wikidata": "Q47007501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3296344,
+          48.8372813
+        ]
+      },
+      "id": "node/5729901137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5813110026",
+        "historic": "memorial",
+        "inscription": "Joachim Lelewel (1786-1861) - Historien, Patriote polonais, Ministre de l'Instruction publique, 1831 émigré en France, habita cette maison 1832",
+        "memorial": "plaque",
+        "name": "Joachim Lelewel - plaque commémorative",
+        "name:lt": "Joachimas Lelevelis - atminimo lenta",
+        "name:pl": "Joachim Lelewel - tablica pamiątkowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3323113,
+          48.8538113
+        ]
+      },
+      "id": "node/5813110026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5887514954",
+        "historic": "memorial",
+        "inscription": "A nos camarades de l'hôpital Cochin morts au champ d'honneur",
+        "memorial": "stele"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3402944,
+          48.8373451
+        ]
+      },
+      "id": "node/5887514954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5978053555",
+        "historic": "memorial",
+        "inscription": "Ici s'éleva de 1853 à 1964 la prison militaire du Cherche-Midi \nLe Capitaine Dreyfus fut condamné en 1894 \nLe Capitaine de Corvette d'Estienne d'Orves héros de la France libre y fut interné en 1941 avant d'être fusillé \nDes résistants furent incarcérés et",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3268556,
+          48.8499098
+        ]
+      },
+      "id": "node/5978053555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5978053556",
+        "historic": "memorial",
+        "inscription": "Prison militaire du du Cherche-Midi \nLe 11 novembre 1940\nici furent incarcérés des lycéens et des étudiants qui après l'appel du 18 juin se dressèrent les premiers contre l'occupant",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.326763,
+          48.8498599
+        ]
+      },
+      "id": "node/5978053556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5978053557",
+        "historic": "memorial",
+        "memorial": "sculpture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3267863,
+          48.8499012
+        ]
+      },
+      "id": "node/5978053557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6434730082",
+        "historic": "memorial",
+        "inscription": "Appel du Général de Gaulle placardé dans les rues de Londres vers Août 1940.",
+        "memorial": "plaque",
+        "name": "Plaque de l'affiche de l'appel du 18 Juin 1940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3469812,
+          48.8552757
+        ]
+      },
+      "id": "node/6434730082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6700663613",
+        "historic": "memorial",
+        "memorial": "war_memorial",
+        "name": "Mémorial première armée française"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3617025,
+          48.8492732
+        ]
+      },
+      "id": "node/6700663613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6765318416",
+        "historic": "memorial",
+        "inscription": "Dans cette maison, François-Vincent Raspail, promoteur du suffrage universel, né à Carpentras le 24 janvier 1794, mort à Arcueil le 7 janvier 1878, donna gratuitement ses soins aux malades de 1840 à 1848.",
+        "memorial": "plaque",
+        "name": "Plaque François-Vincent Raspail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3618077,
+          48.8554269
+        ]
+      },
+      "id": "node/6765318416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7078311752",
+        "board_type": "history",
+        "description": "L'hôtel Istriai",
+        "historic": "memorial",
+        "information": "board",
+        "memorial": "plaque",
+        "name": "L'hôtel Istriai",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3315885,
+          48.8390761
+        ]
+      },
+      "id": "node/7078311752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7093219807",
+        "historic": "memorial",
+        "image": "https://commons.wikimedia.org/wiki/File:Plaque_Georges_P%C3%A9rec_13_rue_Linn%C3%A9_Paris.jpg",
+        "inscription": "L'écrivain Georges Perec a vécu dans cet immeuble de 1974 à 1982",
+        "material": "stone",
+        "memorial": "plaque",
+        "openplaques:id": "31108",
+        "subject:wikidata": "Q157303",
+        "wikimedia_commons": "File:Plaque Georges Pérec 13 rue Linné Paris.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3546136,
+          48.8445229
+        ]
+      },
+      "id": "node/7093219807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7235165292",
+        "historic": "memorial",
+        "inscription:fr": "À la mémoire de Boisson Raymond 1915 - 1944 Chef du 2ème Groupe du Corps Franc des R.G. et des Jeux de la Préfecture de Police tombé glorieusement pour la Libération de Paris le 20 août 1944 au cours d'un combat engagé ici-même",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-20",
+        "source": "survey 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3433576,
+          48.8530749
+        ]
+      },
+      "id": "node/7235165292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7236303529",
+        "historic": "memorial",
+        "inscription:fr": "Ici est tombé pour la Libération Joseph LAHUEC Gardien de la Paix le 21 août 1944",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-21",
+        "source": "survey 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3433654,
+          48.8530792
+        ]
+      },
+      "id": "node/7236303529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7236785686",
+        "historic": "memorial",
+        "inscription:fr": "Ici est tombé le 25 août 1944 le Spahi Pierre Bounin de la Division Leclerc combattant pour la libération de Paris",
+        "memorial": "plaque",
+        "person:date_of_death": "1944-08-25",
+        "source": "survey 2020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3391424,
+          48.844654
+        ]
+      },
+      "id": "node/7236785686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7608924632",
+        "historic": "memorial",
+        "inscription": "CE BATIMENT A ETE EDIFIE EN 1895 PAR L'ARCHITECTE YVON POUR L'ECOLE COLONIALE DEVENUE EN 1934 L'ECOLE NATIONALE DE LA FRANCE D'OUTRE-MER IL A ABRITE DE 1959 A 1966 L'INSTITUT DES HAUTES ETUDES D'OUTRE-MER",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3364014,
+          48.8442013
+        ]
+      },
+      "id": "node/7608924632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7608924633",
+        "historic": "memorial",
+        "memorial": "bust",
+        "subject:wikipedia": "fr:Gaston Monnerville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3370221,
+          48.8441976
+        ]
+      },
+      "id": "node/7608924633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7608924634",
+        "historic": "memorial",
+        "inscription": "SIMONE WEIL PHILOSOPHE A HABITÉ CETTE MAISON DE 1929 A 1940",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3381362,
+          48.8440555
+        ]
+      },
+      "id": "node/7608924634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7647521699",
+        "board_type": "history",
+        "description": "Yves Klein",
+        "historic": "memorial",
+        "information": "board",
+        "memorial": "plaque",
+        "name": "Yves Klein",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3320604,
+          48.8395394
+        ]
+      },
+      "id": "node/7647521699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7972587897",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Elias Zajdner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3618733,
+          48.8540471
+        ]
+      },
+      "id": "node/7972587897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7973345011",
+        "historic": "memorial",
+        "inscription": "Antoine Bourdelle sculpteur (1861- 1929) habita cette maison de 1884 à 1929",
+        "memorial": "plaque",
+        "start_date": "1933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3189074,
+          48.8430256
+        ]
+      },
+      "id": "node/7973345011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7973345015",
+        "historic": "memorial",
+        "inscription": "Le peintre Païlès 1895- 1978 à vécu dans cet immeuble de 1923 à sa mort",
+        "memorial": "plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3194931,
+          48.8431237
+        ]
+      },
+      "id": "node/7973345015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7995599859",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Alexandre Vialatte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3416448,
+          48.8333122
+        ]
+      },
+      "id": "node/7995599859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7995599872",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "18 patriotes antifascistes exécutés"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3411657,
+          48.8331651
+        ]
+      },
+      "id": "node/7995599872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8016758861",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "À la mémoire des petits enfants de cette école"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3566802,
+          48.8557133
+        ]
+      },
+      "id": "node/8016758861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8120285609",
+        "historic": "memorial",
+        "inscription": "Philosophe et mathématicienne née à Paris en 1776 est morte dans cette maison le 27 juin 1831",
+        "memorial": "plaque",
+        "name": "Sophie Germain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3411018,
+          48.8543159
+        ]
+      },
+      "id": "node/8120285609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8121110478",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Marcel Raoul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.337846,
+          48.8517038
+        ]
+      },
+      "id": "node/8121110478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8143294849",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Émile Combes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3458329,
+          48.8402278
+        ]
+      },
+      "id": "node/8143294849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222344121",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Arènes de Lutèce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3532221,
+          48.8446039
+        ]
+      },
+      "id": "node/8222344121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8222344140",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Émile Mâle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3529949,
+          48.8443081
+        ]
+      },
+      "id": "node/8222344140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8313093261",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Pol Bury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3305108,
+          48.8387754
+        ]
+      },
+      "id": "node/8313093261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8354199435",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "À la mémoire de Lucien Térion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3350605,
+          48.8522548
+        ]
+      },
+      "id": "node/8354199435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8354199467",
+        "historic": "memorial",
+        "memorial": "plaque",
+        "name": "Roland Dorgelès"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3350728,
+          48.8526335
+        ]
+      },
+      "id": "node/8354199467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449731890",
+        "historic": "tomb",
+        "name": "Julio Cortázar",
+        "wikidata": "Q174210",
+        "wikipedia": "fr:Julio Cortázar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3259264,
+          48.8389014
+        ]
+      },
+      "id": "node/4449731890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449733389",
+        "historic": "tomb",
+        "name": "Carol Dunlop",
+        "wikidata": "Q2939830",
+        "wikipedia": "fr:Carol Dunlop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3258453,
+          48.838921
+        ]
+      },
+      "id": "node/4449733389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299232923",
+        "historic": "tomb",
+        "name": "Paul Deschanel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3254823,
+          48.8400015
+        ]
+      },
+      "id": "node/6299232923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299232924",
+        "historic": "tomb",
+        "name": "Pierre Larousse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3267889,
+          48.8395531
+        ]
+      },
+      "id": "node/6299232924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299232925",
+        "historic": "tomb",
+        "name": "Henri Langlois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3268162,
+          48.8393633
+        ]
+      },
+      "id": "node/6299232925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299232926",
+        "historic": "tomb",
+        "name": "César"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3258794,
+          48.8389859
+        ]
+      },
+      "id": "node/6299232926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233144",
+        "historic": "tomb",
+        "name": "Porfirio Diaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3254278,
+          48.8402858
+        ]
+      },
+      "id": "node/6299233144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233145",
+        "historic": "tomb",
+        "name": "Régine Deforges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.326087,
+          48.8388872
+        ]
+      },
+      "id": "node/6299233145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233146",
+        "historic": "tomb",
+        "name": "André Citroën",
+        "subject:wikidata": "Q219842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3303438,
+          48.8376369
+        ]
+      },
+      "id": "node/6299233146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233805",
+        "historic": "tomb",
+        "name": "Andrée Chedid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.325573,
+          48.8388706
+        ]
+      },
+      "id": "node/6299233805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233806",
+        "historic": "tomb",
+        "name": "Philippe Noiret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3254821,
+          48.8384709
+        ]
+      },
+      "id": "node/6299233806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233807",
+        "historic": "tomb",
+        "name": "Bernard Lacoste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3267702,
+          48.8371584
+        ]
+      },
+      "id": "node/6299233807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233810",
+        "historic": "tomb",
+        "name": "Jacques Capelovici, dit Maître Capelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3261819,
+          48.8384946
+        ]
+      },
+      "id": "node/6299233810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299233811",
+        "historic": "tomb",
+        "name": "Joseph Kessel",
+        "subject:wikidata": "Q356537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3305798,
+          48.8372834
+        ]
+      },
+      "id": "node/6299233811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327896194",
+        "historic": "tomb",
+        "name": "Professeur Choron (Georges Bernier)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3286467,
+          48.8369763
+        ]
+      },
+      "id": "node/6327896194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327908288",
+        "historic": "tomb",
+        "name": "Camille Saint-Saëns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3277089,
+          48.8389463
+        ]
+      },
+      "id": "node/6327908288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327908290",
+        "historic": "tomb",
+        "name": "Guy de Maupassant",
+        "subject:wikidata": "Q9327"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3289124,
+          48.8369357
+        ]
+      },
+      "id": "node/6327908290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327912087",
+        "historic": "tomb",
+        "name": "Lieutenant Colonel Albert Dreyfus",
+        "subject:wikidata": "Q94865608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3304616,
+          48.8367347
+        ]
+      },
+      "id": "node/6327912087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327912088",
+        "historic": "tomb",
+        "name": "Samuel Becket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3275672,
+          48.8377908
+        ]
+      },
+      "id": "node/6327912088"
+    }
+  ]
+}
