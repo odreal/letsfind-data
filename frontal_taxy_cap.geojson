@@ -1,0 +1,5012 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-01-29T16:04:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/264058908",
+        "amenity": "taxi",
+        "phone": "+33 6 80 38 82 24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1911661,
+          48.7047818
+        ]
+      },
+      "id": "node/264058908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303476818",
+        "amenity": "taxi",
+        "ref": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2781094,
+          48.8512856
+        ]
+      },
+      "id": "node/303476818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308114099",
+        "amenity": "taxi",
+        "ref": "63",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2853345,
+          48.8468228
+        ]
+      },
+      "id": "node/308114099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315780429",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3329284,
+          48.8332389
+        ]
+      },
+      "id": "node/315780429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315784631",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3385336,
+          48.8526288
+        ]
+      },
+      "id": "node/315784631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/318606856",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3450965,
+          48.8925057
+        ]
+      },
+      "id": "node/318606856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320952612",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3430786,
+          48.851505
+        ]
+      },
+      "id": "node/320952612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320952630",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75005",
+        "addr:street": "Rue Soufflot - Place Edmond Rostand",
+        "amenity": "taxi",
+        "name": "Panthéon",
+        "phone": "+33 1 46 33 00 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3412959,
+          48.847329
+        ]
+      },
+      "id": "node/320952630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321203608",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.356553,
+          48.8312038
+        ]
+      },
+      "id": "node/321203608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329991977",
+        "amenity": "taxi",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.354048,
+          48.8810365
+        ]
+      },
+      "id": "node/329991977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430932286",
+        "amenity": "taxi",
+        "ref": "58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3321841,
+          48.8347711
+        ]
+      },
+      "id": "node/430932286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439249692",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1555901,
+          48.8854442
+        ]
+      },
+      "id": "node/439249692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441596836",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3709325,
+          48.827886
+        ]
+      },
+      "id": "node/441596836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/446884995",
+        "amenity": "taxi",
+        "ref": "78"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2848365,
+          48.869589
+        ]
+      },
+      "id": "node/446884995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/449586617",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Mairie du 11e - Léon Blum",
+        "phone": "+33 1 43790000",
+        "ref": "41",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3800129,
+          48.8582436
+        ]
+      },
+      "id": "node/449586617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/451012081",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.414139,
+          48.8217832
+        ]
+      },
+      "id": "node/451012081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471545003",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4719927,
+          48.8360927
+        ]
+      },
+      "id": "node/471545003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471772257",
+        "amenity": "taxi",
+        "phone": "+33 1 43 28 00 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4173568,
+          48.8467761
+        ]
+      },
+      "id": "node/471772257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474494421",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2426483,
+          49.0157494
+        ]
+      },
+      "id": "node/474494421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/487386360",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2732441,
+          48.8934157
+        ]
+      },
+      "id": "node/487386360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/490733663",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2803049,
+          48.8977384
+        ]
+      },
+      "id": "node/490733663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/494652717",
+        "amenity": "taxi",
+        "name": "Plaisance",
+        "ref": "61",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3137006,
+          48.8316618
+        ]
+      },
+      "id": "node/494652717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496808217",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2788566,
+          48.866865
+        ]
+      },
+      "id": "node/496808217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/496823311",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2857979,
+          48.8697674
+        ]
+      },
+      "id": "node/496823311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/501940041",
+        "amenity": "taxi",
+        "name": "Gare de Brunoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5065779,
+          48.6986175
+        ]
+      },
+      "id": "node/501940041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/519099120",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4052197,
+          48.8424148
+        ]
+      },
+      "id": "node/519099120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530272881",
+        "amenity": "taxi",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3727316,
+          48.8448799
+        ]
+      },
+      "id": "node/530272881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566152726",
+        "amenity": "taxi",
+        "name": "Villiers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3150046,
+          48.881559
+        ]
+      },
+      "id": "node/566152726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/596081289",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3200287,
+          48.8903746
+        ]
+      },
+      "id": "node/596081289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/597416690",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3048445,
+          48.8705342
+        ]
+      },
+      "id": "node/597416690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598519647",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4868283,
+          48.8530429
+        ]
+      },
+      "id": "node/598519647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605026040",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1995313,
+          48.8870086
+        ]
+      },
+      "id": "node/605026040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605201503",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2915179,
+          48.8854539
+        ]
+      },
+      "id": "node/605201503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/614553308",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3035132,
+          48.8901166
+        ]
+      },
+      "id": "node/614553308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/627399459",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Porte des Lilas",
+        "ref": "101",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4069538,
+          48.8773624
+        ]
+      },
+      "id": "node/627399459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/637680773",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3288806,
+          48.897969
+        ]
+      },
+      "id": "node/637680773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663237889",
+        "amenity": "taxi",
+        "phone": "+33 1 42270000",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2976487,
+          48.8844761
+        ]
+      },
+      "id": "node/663237889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666950686",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3037809,
+          48.8584436
+        ]
+      },
+      "id": "node/666950686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701534106",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Buttes-Chaumont - Botzaris",
+        "ref": "100",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3896245,
+          48.8797629
+        ]
+      },
+      "id": "node/701534106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/725283196",
+        "amenity": "taxi",
+        "name": "Mairie du 19e",
+        "ref": "105",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3814655,
+          48.8827367
+        ]
+      },
+      "id": "node/725283196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/727719298",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3206428,
+          48.842011
+        ]
+      },
+      "id": "node/727719298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/736957040",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "24",
+        "addr:postcode": "75003",
+        "addr:street": "Rue Beaubourg",
+        "amenity": "taxi",
+        "name": "Rambuteau",
+        "phone": "+33 1 42 72 00 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3537195,
+          48.8615017
+        ]
+      },
+      "id": "node/736957040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/749086325",
+        "amenity": "taxi",
+        "phone": "+33 1 42 83 00 00",
+        "source:phone": "survey",
+        "survey:date": "2017-07-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4858356,
+          48.8049949
+        ]
+      },
+      "id": "node/749086325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/773250387",
+        "amenity": "taxi",
+        "ref": "109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3981788,
+          48.8645112
+        ]
+      },
+      "id": "node/773250387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/814805756",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Saint-Augustin",
+        "ref": "32",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3203899,
+          48.8744183
+        ]
+      },
+      "id": "node/814805756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/822037928",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3215782,
+          48.8798173
+        ]
+      },
+      "id": "node/822037928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/828116843",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3049062,
+          48.8747412
+        ]
+      },
+      "id": "node/828116843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/828728719",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3070512,
+          48.8700986
+        ]
+      },
+      "id": "node/828728719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/833344028",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2986811,
+          48.8687272
+        ]
+      },
+      "id": "node/833344028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/838122701",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3015489,
+          48.8764317
+        ]
+      },
+      "id": "node/838122701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/864661503",
+        "amenity": "taxi",
+        "capacity": "7",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2218078,
+          48.8418065
+        ]
+      },
+      "id": "node/864661503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/864663237",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2283899,
+          48.8404247
+        ]
+      },
+      "id": "node/864663237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911471186",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2956078,
+          48.8748073
+        ]
+      },
+      "id": "node/911471186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926540863",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2954876,
+          48.8679763
+        ]
+      },
+      "id": "node/926540863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926887371",
+        "amenity": "taxi",
+        "bench": "yes",
+        "ref": "122",
+        "shelter": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2899845,
+          48.8666447
+        ]
+      },
+      "id": "node/926887371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926929311",
+        "amenity": "taxi",
+        "shelter": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2934996,
+          48.8714962
+        ]
+      },
+      "id": "node/926929311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/932339146",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2863973,
+          48.865906
+        ]
+      },
+      "id": "node/932339146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/932339926",
+        "amenity": "taxi",
+        "bench": "yes",
+        "ref": "81",
+        "shelter": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2863318,
+          48.8634047
+        ]
+      },
+      "id": "node/932339926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/952745939",
+        "amenity": "taxi",
+        "bench": "yes",
+        "shelter": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2859062,
+          48.861745
+        ]
+      },
+      "id": "node/952745939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/962379314",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.284994,
+          48.858689
+        ]
+      },
+      "id": "node/962379314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992611804",
+        "amenity": "taxi",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3911329,
+          48.9764568
+        ]
+      },
+      "id": "node/992611804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/993843270",
+        "amenity": "taxi",
+        "shelter": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2646649,
+          48.848305
+        ]
+      },
+      "id": "node/993843270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1011083800",
+        "amenity": "taxi",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2312207,
+          48.8301016
+        ]
+      },
+      "id": "node/1011083800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015301875",
+        "amenity": "taxi",
+        "name": "Place du Colonel Fabien",
+        "ref": "106",
+        "shelter": "yes",
+        "source": "survey",
+        "survey:date": "2021-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3709125,
+          48.8776113
+        ]
+      },
+      "id": "node/1015301875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015326758",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3781296,
+          48.878003
+        ]
+      },
+      "id": "node/1015326758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015825386",
+        "amenity": "taxi",
+        "name": "Borne taxi rue Custine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3492159,
+          48.8873966
+        ]
+      },
+      "id": "node/1015825386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1015924624",
+        "amenity": "taxi",
+        "bench": "yes",
+        "ref": "33",
+        "shelter": "yes",
+        "survey:date": "2021-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3274673,
+          48.8832089
+        ]
+      },
+      "id": "node/1015924624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1018003512",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1439147,
+          48.9456725
+        ]
+      },
+      "id": "node/1018003512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1027229942",
+        "amenity": "taxi",
+        "ref": "73",
+        "shelter": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "survey:date": "2020-12-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2575348,
+          48.8374507
+        ]
+      },
+      "id": "node/1027229942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1040774689",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4060423,
+          48.8527859
+        ]
+      },
+      "id": "node/1040774689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1105435963",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2878444,
+          48.8922472
+        ]
+      },
+      "id": "node/1105435963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1113454548",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3592623,
+          48.8764243
+        ]
+      },
+      "id": "node/1113454548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1116768296",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "252",
+        "addr:postcode": "75001",
+        "addr:street": "Rue de Rivoli",
+        "amenity": "taxi",
+        "name": "Concorde",
+        "phone": "+33 1 42 61 67 60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3244457,
+          48.8663059
+        ]
+      },
+      "id": "node/1116768296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1191525169",
+        "amenity": "taxi",
+        "name": "La Tour Maubourg - Invalides",
+        "ref": "25",
+        "source": "survey",
+        "survey:date": "2020-12-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3100401,
+          48.8579037
+        ]
+      },
+      "id": "node/1191525169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1202447117",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3559318,
+          48.8655795
+        ]
+      },
+      "id": "node/1202447117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1215523595",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3122933,
+          48.8473587
+        ]
+      },
+      "id": "node/1215523595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1234212653",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3392717,
+          48.8766198
+        ]
+      },
+      "id": "node/1234212653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236409622",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3471915,
+          48.8832546
+        ]
+      },
+      "id": "node/1236409622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1243135980",
+        "amenity": "taxi",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3780826,
+          48.8460393
+        ]
+      },
+      "id": "node/1243135980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1279198396",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2523533,
+          48.9236505
+        ]
+      },
+      "id": "node/1279198396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1296554303",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488004,
+          48.7943524
+        ]
+      },
+      "id": "node/1296554303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1312808403",
+        "amenity": "taxi",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6160901,
+          48.8438607
+        ]
+      },
+      "id": "node/1312808403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1377893390",
+        "amenity": "taxi",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3607823,
+          48.8383767
+        ]
+      },
+      "id": "node/1377893390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419519656",
+        "amenity": "taxi",
+        "ref": "48",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3861242,
+          48.8320473
+        ]
+      },
+      "id": "node/1419519656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426485338",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2243439,
+          48.8678976
+        ]
+      },
+      "id": "node/1426485338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432993107",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4013484,
+          48.843225
+        ]
+      },
+      "id": "node/1432993107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474891608",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5083602,
+          48.7710896
+        ]
+      },
+      "id": "node/1474891608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1514201702",
+        "amenity": "taxi",
+        "name": "Hôtel Mercure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2514488,
+          48.8960061
+        ]
+      },
+      "id": "node/1514201702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1579735558",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Porte d'Orléans",
+        "ref": "59",
+        "shelter": "yes",
+        "source": "survey 11-2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3256853,
+          48.8226193
+        ]
+      },
+      "id": "node/1579735558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645347489",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2735998,
+          48.8241086
+        ]
+      },
+      "id": "node/1645347489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1656938772",
+        "amenity": "taxi",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3751858,
+          48.8429514
+        ]
+      },
+      "id": "node/1656938772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712003215",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3466694,
+          48.859736
+        ]
+      },
+      "id": "node/1712003215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1712003217",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3466023,
+          48.8606298
+        ]
+      },
+      "id": "node/1712003217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723692149",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4411062,
+          48.8445008
+        ]
+      },
+      "id": "node/1723692149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1770940769",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1805621,
+          48.9802965
+        ]
+      },
+      "id": "node/1770940769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1807945326",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1172005,
+          48.8287259
+        ]
+      },
+      "id": "node/1807945326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1816125909",
+        "amenity": "taxi",
+        "bench": "yes",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3928948,
+          48.8502906
+        ]
+      },
+      "id": "node/1816125909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821967242",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3426369,
+          48.8715042
+        ]
+      },
+      "id": "node/1821967242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821967310",
+        "amenity": "taxi",
+        "name": "Drouot",
+        "phone": "+33 1 42 46 00 00",
+        "shelter": "yes",
+        "survey:date": "2021-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339478,
+          48.872158
+        ]
+      },
+      "id": "node/1821967310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1863067248",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5543817,
+          48.7373742
+        ]
+      },
+      "id": "node/1863067248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868871666",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "151",
+        "addr:postcode": "75006",
+        "addr:street": "Boulevard Saint-Germain",
+        "amenity": "taxi",
+        "name": "Saint-Germain des Prés",
+        "phone": "+33 1 42 22 00 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3325263,
+          48.8538475
+        ]
+      },
+      "id": "node/1868871666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1870150572",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5309745,
+          48.8574939
+        ]
+      },
+      "id": "node/1870150572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1895937515",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1176383,
+          48.8292332
+        ]
+      },
+      "id": "node/1895937515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1896365435",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3363457,
+          48.8937759
+        ]
+      },
+      "id": "node/1896365435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913339715",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3825585,
+          48.8391806
+        ]
+      },
+      "id": "node/1913339715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1932959285",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6186844,
+          48.8056695
+        ]
+      },
+      "id": "node/1932959285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1939928419",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3065357,
+          48.8672161
+        ]
+      },
+      "id": "node/1939928419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1976385700",
+        "amenity": "taxi",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3013632,
+          48.8652369
+        ]
+      },
+      "id": "node/1976385700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977695180",
+        "amenity": "taxi",
+        "name": "Alma - Branly",
+        "ref": "21",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3019568,
+          48.8617518
+        ]
+      },
+      "id": "node/1977695180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977695187",
+        "amenity": "taxi",
+        "name": "Gare des Invalides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3149819,
+          48.8622551
+        ]
+      },
+      "id": "node/1977695187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977695190",
+        "amenity": "taxi",
+        "name": "Place Vauban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3129407,
+          48.8538288
+        ]
+      },
+      "id": "node/1977695190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977695193",
+        "amenity": "taxi",
+        "name": "Place de l'Alma",
+        "ref": "28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3013405,
+          48.86505
+        ]
+      },
+      "id": "node/1977695193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1977695286",
+        "amenity": "taxi",
+        "name": "École Militaire",
+        "ref": "23",
+        "shelter": "yes",
+        "survey:date": "2020-12-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.306788,
+          48.854175
+        ]
+      },
+      "id": "node/1977695286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1986745619",
+        "amenity": "taxi",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3014172,
+          48.8699915
+        ]
+      },
+      "id": "node/1986745619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1986745621",
+        "amenity": "taxi",
+        "bench": "yes",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3009696,
+          48.871316
+        ]
+      },
+      "id": "node/1986745621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1989439081",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3254801,
+          48.8755248
+        ]
+      },
+      "id": "node/1989439081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2003145948",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3526294,
+          48.863053
+        ]
+      },
+      "id": "node/2003145948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012582851",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3015699,
+          48.7552569
+        ]
+      },
+      "id": "node/2012582851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2013669189",
+        "amenity": "taxi",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3767506,
+          48.8462434
+        ]
+      },
+      "id": "node/2013669189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2034367273",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3034301,
+          48.8793033
+        ]
+      },
+      "id": "node/2034367273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2042462248",
+        "amenity": "taxi",
+        "bench": "yes",
+        "shelter": "yes",
+        "source": "survey 07/2018",
+        "source:position": "BD Ortho 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.370779,
+          48.8701799
+        ]
+      },
+      "id": "node/2042462248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2083117367",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4369819,
+          48.9482507
+        ]
+      },
+      "id": "node/2083117367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2204791633",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.401554,
+          48.8682598
+        ]
+      },
+      "id": "node/2204791633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2211556510",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Hôtel de Ville",
+        "ref": "119",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3537614,
+          48.8567308
+        ]
+      },
+      "id": "node/2211556510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271671318",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2668958,
+          48.8312423
+        ]
+      },
+      "id": "node/2271671318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286779128",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3469176,
+          48.825781
+        ]
+      },
+      "id": "node/2286779128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299833266",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3465254,
+          48.8600781
+        ]
+      },
+      "id": "node/2299833266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2301475573",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3618635,
+          48.832562
+        ]
+      },
+      "id": "node/2301475573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2309697545",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2618197,
+          48.7258508
+        ]
+      },
+      "id": "node/2309697545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2331189814",
+        "amenity": "taxi",
+        "name": "Alésia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3264398,
+          48.828467
+        ]
+      },
+      "id": "node/2331189814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358812896",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75003",
+        "addr:street": "Place de la République",
+        "amenity": "taxi",
+        "name": "Place de la République",
+        "phone": "+33 1 45 30 30 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3641696,
+          48.8666879
+        ]
+      },
+      "id": "node/2358812896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358813248",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "République Temple",
+        "ref": "120",
+        "shelter": "yes",
+        "source:name": "survey",
+        "survey:date": "2021-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364695,
+          48.8679239
+        ]
+      },
+      "id": "node/2358813248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358813263",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3620076,
+          48.8679443
+        ]
+      },
+      "id": "node/2358813263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378135249",
+        "amenity": "taxi",
+        "bench": "no",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3260607,
+          48.8606611
+        ]
+      },
+      "id": "node/2378135249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2378416551",
+        "amenity": "taxi",
+        "name": "Bibliothèque François Mitterrand",
+        "ref": "118",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3770164,
+          48.8308568
+        ]
+      },
+      "id": "node/2378416551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2381794156",
+        "amenity": "taxi",
+        "name": "Rue de Paris",
+        "network": "TaxiVal",
+        "note": "Taxi à la demande",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2522262,
+          49.0132332
+        ]
+      },
+      "id": "node/2381794156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2412072120",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3372039,
+          48.8495296
+        ]
+      },
+      "id": "node/2412072120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2420675568",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75006",
+        "addr:street": "Place Henri Mondor - Boulevard Saint Germain",
+        "amenity": "taxi",
+        "name": "Odéon",
+        "phone": "+33 1 43 26 00 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3393496,
+          48.8521348
+        ]
+      },
+      "id": "node/2420675568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2484697653",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3269492,
+          48.8772711
+        ]
+      },
+      "id": "node/2484697653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499815412",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Place d'Italie",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3539944,
+          48.8311845
+        ]
+      },
+      "id": "node/2499815412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2499815571",
+        "amenity": "taxi",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3795882,
+          48.8846924
+        ]
+      },
+      "id": "node/2499815571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500391358",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2924114,
+          48.8306144
+        ]
+      },
+      "id": "node/2500391358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501022488",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5513619,
+          48.8403064
+        ]
+      },
+      "id": "node/2501022488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2506561048",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3608267,
+          48.8767391
+        ]
+      },
+      "id": "node/2506561048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2509550754",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4258689,
+          48.7397327
+        ]
+      },
+      "id": "node/2509550754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2531037056",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2632551,
+          48.828719
+        ]
+      },
+      "id": "node/2531037056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2531888723",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Henri Martin",
+        "ref": "74",
+        "shelter": "yes",
+        "source": "survey",
+        "survey:date": "2020-12-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2725889,
+          48.8643425
+        ]
+      },
+      "id": "node/2531888723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536435804",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Porte de la Chapelle",
+        "ref": "99",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3591549,
+          48.8982395
+        ]
+      },
+      "id": "node/2536435804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558716960",
+        "amenity": "taxi",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1274118,
+          48.9430021
+        ]
+      },
+      "id": "node/2558716960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2613533129",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.181256,
+          48.880282
+        ]
+      },
+      "id": "node/2613533129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2613924189",
+        "amenity": "taxi",
+        "capacity": "3",
+        "name": "Gare de Villliers-le-Bel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4161869,
+          48.9944365
+        ]
+      },
+      "id": "node/2613924189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634121038",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3456697,
+          48.8607328
+        ]
+      },
+      "id": "node/2634121038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2679850025",
+        "amenity": "taxi",
+        "name": "Abbé Georges Hénocque",
+        "ref": "53",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3530302,
+          48.8236433
+        ]
+      },
+      "id": "node/2679850025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2690851828",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1884207,
+          48.8051158
+        ]
+      },
+      "id": "node/2690851828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186027",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1862709,
+          48.8380748
+        ]
+      },
+      "id": "node/2696186027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186141",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1870728,
+          48.8385007
+        ]
+      },
+      "id": "node/2696186141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186149",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871105,
+          48.8385217
+        ]
+      },
+      "id": "node/2696186149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186154",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871423,
+          48.838536
+        ]
+      },
+      "id": "node/2696186154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186158",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187178,
+          48.8385543
+        ]
+      },
+      "id": "node/2696186158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186170",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871105,
+          48.8386053
+        ]
+      },
+      "id": "node/2696186170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696186173",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871522,
+          48.8386236
+        ]
+      },
+      "id": "node/2696186173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696426022",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1525396,
+          48.8371318
+        ]
+      },
+      "id": "node/2696426022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701617374",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4621708,
+          48.707924
+        ]
+      },
+      "id": "node/2701617374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2723878122",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3303564,
+          48.8643981
+        ]
+      },
+      "id": "node/2723878122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737884574",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4631155,
+          49.024052
+        ]
+      },
+      "id": "node/2737884574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2779736195",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6023555,
+          48.9534137
+        ]
+      },
+      "id": "node/2779736195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2786589634",
+        "amenity": "taxi",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3910995,
+          48.9764669
+        ]
+      },
+      "id": "node/2786589634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787685124",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3534156,
+          48.9848289
+        ]
+      },
+      "id": "node/2787685124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2805882963",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.414125,
+          48.708107
+        ]
+      },
+      "id": "node/2805882963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2809940984",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4832235,
+          48.7067954
+        ]
+      },
+      "id": "node/2809940984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810021898",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5274957,
+          48.8830901
+        ]
+      },
+      "id": "node/2810021898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2810998012",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5112559,
+          48.8892418
+        ]
+      },
+      "id": "node/2810998012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2819044231",
+        "amenity": "taxi",
+        "name": "Boissy-Saint-Léger RER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5055717,
+          48.7529498
+        ]
+      },
+      "id": "node/2819044231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2837890150",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4496058,
+          48.9066329
+        ]
+      },
+      "id": "node/2837890150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2837931069",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6496986,
+          48.7956635
+        ]
+      },
+      "id": "node/2837931069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2861083237",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3938039,
+          48.8891585
+        ]
+      },
+      "id": "node/2861083237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868460476",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5237876,
+          48.9469462
+        ]
+      },
+      "id": "node/2868460476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870315003",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4942423,
+          48.9313929
+        ]
+      },
+      "id": "node/2870315003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870447434",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4955282,
+          48.9325033
+        ]
+      },
+      "id": "node/2870447434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870545339",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1519461,
+          48.8067412
+        ]
+      },
+      "id": "node/2870545339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2872764734",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.200511,
+          48.8273515
+        ]
+      },
+      "id": "node/2872764734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2874448085",
+        "amenity": "taxi",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1284708,
+          48.7999657
+        ]
+      },
+      "id": "node/2874448085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2921238688",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75001",
+        "addr:street": "Place du Châtelet",
+        "amenity": "taxi",
+        "bench": "no",
+        "name": "Châtelet",
+        "phone": "+33 1 42 33 20 99",
+        "ref": "1",
+        "shelter": "yes",
+        "source": "survey 06/2018",
+        "source:position": "BD Ortho 2018",
+        "survey:date": "2021-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3473518,
+          48.857736
+        ]
+      },
+      "id": "node/2921238688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2921238689",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75001",
+        "addr:street": "Place André Malraux",
+        "amenity": "taxi",
+        "name": "Louvre",
+        "phone": "+33 1 42 60 61 40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3351782,
+          48.8634279
+        ]
+      },
+      "id": "node/2921238689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2921238690",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "25",
+        "addr:postcode": "75001",
+        "addr:street": "Place Vendôme",
+        "amenity": "taxi",
+        "name": "Vendôme",
+        "phone": "+33 1 47 03 02 92"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3299623,
+          48.8680916
+        ]
+      },
+      "id": "node/2921238690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926165461",
+        "addr:full": "19 boulevard de Strastourb, Paris",
+        "amenity": "taxi",
+        "name": "Strasbourg Saint-Denis",
+        "phone": "+33 1 42 36 93 55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3546294,
+          48.8691985
+        ]
+      },
+      "id": "node/2926165461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926166930",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "4 bis",
+        "addr:postcode": "75002",
+        "addr:street": "Place des Victoires",
+        "amenity": "taxi",
+        "name": "Victoires",
+        "phone": "+33 1 45 30 30 30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3408572,
+          48.86593
+        ]
+      },
+      "id": "node/2926166930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926230031",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "197",
+        "addr:postcode": "75003",
+        "addr:street": "Rue du Temple",
+        "amenity": "taxi",
+        "name": "Temple",
+        "phone": "+33 1 42 78 00 00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3612125,
+          48.8662586
+        ]
+      },
+      "id": "node/2926230031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926240308",
+        "amenity": "taxi",
+        "name": "Saint-Paul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3603751,
+          48.8553209
+        ]
+      },
+      "id": "node/2926240308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926314318",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "88",
+        "addr:postcode": "75005",
+        "addr:street": "Boulevard Saint-Marcel",
+        "amenity": "taxi",
+        "name": "Gobelins",
+        "phone": "+33 1 43 31 00 00",
+        "ref": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522269,
+          48.8370201
+        ]
+      },
+      "id": "node/2926314318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926314319",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75005",
+        "addr:street": "Place Maubert",
+        "amenity": "taxi",
+        "name": "Maubert Mutualité",
+        "phone": "+33 1 46 34 10 32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3487204,
+          48.850079
+        ]
+      },
+      "id": "node/2926314319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926314320",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "2",
+        "addr:postcode": "75005",
+        "addr:street": "Place Monge",
+        "amenity": "taxi",
+        "name": "Monge",
+        "phone": "+33 1 45 87 15 95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3520318,
+          48.8432193
+        ]
+      },
+      "id": "node/2926314320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926314321",
+        "amenity": "taxi",
+        "name": "Tournelle",
+        "phone": "+33 1 43 25 92 99",
+        "ref": "14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3550274,
+          48.8498863
+        ]
+      },
+      "id": "node/2926314321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926408280",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "73",
+        "addr:postcode": "75006",
+        "addr:street": "Boulevard du Montparnasse",
+        "amenity": "taxi",
+        "name": "Gare Montparnasse",
+        "phone": "+33 1 42 22 13 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3236014,
+          48.8434713
+        ]
+      },
+      "id": "node/2926408280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926408281",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "2",
+        "addr:postcode": "75006",
+        "addr:street": "Rue du Four",
+        "amenity": "taxi",
+        "name": "Mabillon",
+        "phone": "+33 1 43 29 00 00",
+        "ref": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3354092,
+          48.8530282
+        ]
+      },
+      "id": "node/2926408281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926408282",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:housenumber": "20",
+        "addr:postcode": "75006",
+        "addr:street": "Avenue de l'Observatoire",
+        "amenity": "taxi",
+        "name": "Port Royal",
+        "phone": "+33 1 43 54 74 37"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3365313,
+          48.8402189
+        ]
+      },
+      "id": "node/2926408282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926408283",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75006",
+        "addr:street": "Place Alphonse Deville",
+        "amenity": "taxi",
+        "name": "Sèvres - Babylone",
+        "phone": "+33 1 45 48 84 75",
+        "ref": "19",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3272579,
+          48.8505206
+        ]
+      },
+      "id": "node/2926408283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2926408284",
+        "addr:city": "Paris",
+        "addr:country": "FR",
+        "addr:postcode": "75006",
+        "addr:street": "Place Saint-Sulpice",
+        "amenity": "taxi",
+        "name": "Saint-Sulpice",
+        "phone": "+33 1 56 24 09 63"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3331634,
+          48.8512092
+        ]
+      },
+      "id": "node/2926408284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3058956904",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3823526,
+          48.8388666
+        ]
+      },
+      "id": "node/3058956904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243087511",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6285661,
+          48.7324036
+        ]
+      },
+      "id": "node/3243087511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3335202088",
+        "amenity": "taxi",
+        "name": "Saint-Michel",
+        "phone": "+33 1 43 29 63 66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3446185,
+          48.8536135
+        ]
+      },
+      "id": "node/3335202088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339794227",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3490326,
+          48.879576
+        ]
+      },
+      "id": "node/3339794227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3413833426",
+        "amenity": "taxi",
+        "name": "Opéra",
+        "phone": "+33 1 47 42 75 75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3327006,
+          48.8705443
+        ]
+      },
+      "id": "node/3413833426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3419515333",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3198337,
+          48.8383042
+        ]
+      },
+      "id": "node/3419515333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3430498477",
+        "addr:city": "Paris",
+        "addr:housenumber": "108",
+        "addr:postcode": "75002",
+        "addr:street": "Rue Réaumur",
+        "amenity": "taxi",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3471327,
+          48.8674579
+        ]
+      },
+      "id": "node/3430498477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3516892595",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3876594,
+          48.8312696
+        ]
+      },
+      "id": "node/3516892595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3516950649",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3499645,
+          48.9373327
+        ]
+      },
+      "id": "node/3516950649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3528321489",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Belleville-Pyrénées",
+        "ref": "110",
+        "shelter": "yes",
+        "source": "survey",
+        "survey:date": "2021-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3857867,
+          48.873972
+        ]
+      },
+      "id": "node/3528321489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3610666373",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2911096,
+          48.8205973
+        ]
+      },
+      "id": "node/3610666373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3641357421",
+        "amenity": "taxi",
+        "survey:date": "2017-10-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2065853,
+          48.8647963
+        ]
+      },
+      "id": "node/3641357421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3647581830",
+        "amenity": "taxi",
+        "source": "survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2240284,
+          48.8957497
+        ]
+      },
+      "id": "node/3647581830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3650993867",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3420105,
+          48.8586994
+        ]
+      },
+      "id": "node/3650993867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3682446404",
+        "amenity": "taxi",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2715763,
+          48.9801842
+        ]
+      },
+      "id": "node/3682446404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3682556854",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3116804,
+          48.8698623
+        ]
+      },
+      "id": "node/3682556854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3693957625",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2845223,
+          48.8773384
+        ]
+      },
+      "id": "node/3693957625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3771529117",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1580244,
+          48.9379315
+        ]
+      },
+      "id": "node/3771529117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3827056672",
+        "amenity": "taxi",
+        "name": "Hôpital Saint-Antoine",
+        "ref": "40",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3843501,
+          48.8503131
+        ]
+      },
+      "id": "node/3827056672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3905020259",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2830749,
+          48.8499085
+        ]
+      },
+      "id": "node/3905020259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3966675084",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3132132,
+          48.8457312
+        ]
+      },
+      "id": "node/3966675084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3967169989",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2841435,
+          48.8783978
+        ]
+      },
+      "id": "node/3967169989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3981807770",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3564656,
+          48.8654903
+        ]
+      },
+      "id": "node/3981807770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992450174",
+        "amenity": "taxi",
+        "name": "Porte de Montreuil",
+        "ref": "115",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4113108,
+          48.8537356
+        ]
+      },
+      "id": "node/3992450174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004690178",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Saint-Ambroise",
+        "ref": "43",
+        "shelter": "yes",
+        "source": "survey",
+        "survey:date": "2021-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3731872,
+          48.8620532
+        ]
+      },
+      "id": "node/4004690178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4026454066",
+        "amenity": "taxi",
+        "name": "Porte de Bagnolet",
+        "ref": "114",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4090508,
+          48.8642032
+        ]
+      },
+      "id": "node/4026454066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4040109888",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Mairie du 12e",
+        "ref": "49",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3878387,
+          48.8412857
+        ]
+      },
+      "id": "node/4040109888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4065380571",
+        "amenity": "taxi",
+        "name": "Ménilmontant-Belleville",
+        "ref": "111",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3832956,
+          48.8669079
+        ]
+      },
+      "id": "node/4065380571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4105391923",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3579595,
+          48.8771292
+        ]
+      },
+      "id": "node/4105391923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119301332",
+        "amenity": "taxi",
+        "level": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.315268,
+          48.8382931
+        ]
+      },
+      "id": "node/4119301332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119450571",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1361026,
+          48.7961747
+        ]
+      },
+      "id": "node/4119450571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4138841605",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.446898,
+          48.7299384
+        ]
+      },
+      "id": "node/4138841605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4145082637",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Daumesnil - Félix Êboué",
+        "ref": "45",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3954916,
+          48.8399824
+        ]
+      },
+      "id": "node/4145082637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158952905",
+        "amenity": "taxi",
+        "survey:date": "2017-08-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1732994,
+          48.887725
+        ]
+      },
+      "id": "node/4158952905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4161357575",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2854721,
+          48.9640012
+        ]
+      },
+      "id": "node/4161357575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4233879655",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5615363,
+          49.0094784
+        ]
+      },
+      "id": "node/4233879655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260550561",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3528801,
+          48.8476253
+        ]
+      },
+      "id": "node/4260550561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4279203508",
+        "amenity": "taxi",
+        "name": "Place des Ternes",
+        "ref": "30",
+        "shelter": "yes",
+        "source": "survey",
+        "source:position": "BDOrtho IGN 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2986491,
+          48.8777561
+        ]
+      },
+      "id": "node/4279203508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294378827",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2909801,
+          48.87911
+        ]
+      },
+      "id": "node/4294378827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4337480789",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3843137,
+          48.85063
+        ]
+      },
+      "id": "node/4337480789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4420308193",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314974,
+          48.8753717
+        ]
+      },
+      "id": "node/4420308193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426841276",
+        "amenity": "taxi",
+        "name": "Trinité - d'Estienne d'Orves",
+        "ref": "34",
+        "shelter": "yes",
+        "source": "survey",
+        "survey:date": "2021-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3319332,
+          48.8765634
+        ]
+      },
+      "id": "node/4426841276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558663639",
+        "amenity": "taxi",
+        "indoor": "yes",
+        "level": "5",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5411087,
+          49.0150131
+        ]
+      },
+      "id": "node/4558663639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4570555878",
+        "amenity": "taxi",
+        "name": "La Muette",
+        "ref": "72",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27396,
+          48.8581013
+        ]
+      },
+      "id": "node/4570555878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4638378487",
+        "amenity": "taxi",
+        "name": "Philippe Auguste",
+        "ref": "42",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3910566,
+          48.8559826
+        ]
+      },
+      "id": "node/4638378487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4655697256",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Porte Dorée",
+        "operator": "Paris Taxis",
+        "ref": "50",
+        "shelter": "yes",
+        "source": "survey 06/2018",
+        "source:position": "BD Ortho 2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4071753,
+          48.8354375
+        ]
+      },
+      "id": "node/4655697256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705447660",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3370347,
+          48.8724883
+        ]
+      },
+      "id": "node/4705447660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729508763",
+        "amenity": "taxi",
+        "ref": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3259948,
+          48.8562027
+        ]
+      },
+      "id": "node/4729508763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760644663",
+        "amenity": "taxi",
+        "name": "Nation - Trône",
+        "phone": "+33 1 43 73 29 58",
+        "ref": "38",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3976698,
+          48.8482851
+        ]
+      },
+      "id": "node/4760644663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798803336",
+        "amenity": "taxi",
+        "source": "Connaissance locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3735817,
+          48.845379
+        ]
+      },
+      "id": "node/4798803336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4808482787",
+        "amenity": "taxi",
+        "bench": "no",
+        "name": "Place Rio de Janeiro",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3114042,
+          48.8771826
+        ]
+      },
+      "id": "node/4808482787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4847238722",
+        "amenity": "taxi",
+        "level": "1;"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3738988,
+          48.8453397
+        ]
+      },
+      "id": "node/4847238722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905282564",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3398089,
+          48.8690174
+        ]
+      },
+      "id": "node/4905282564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905284806",
+        "amenity": "taxi",
+        "description": "station 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2932221,
+          48.8586647
+        ]
+      },
+      "id": "node/4905284806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5045449576",
+        "amenity": "taxi",
+        "bench": "yes",
+        "shelter": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3075896,
+          48.9083014
+        ]
+      },
+      "id": "node/5045449576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5069568035",
+        "amenity": "taxi",
+        "name": "Les Taxis Parisiens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3457807,
+          48.8259342
+        ]
+      },
+      "id": "node/5069568035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5096005633",
+        "amenity": "taxi",
+        "source": "survey 06/2018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3208531,
+          48.8423682
+        ]
+      },
+      "id": "node/5096005633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212853906",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6399414,
+          48.8748366
+        ]
+      },
+      "id": "node/5212853906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5262248223",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5710994,
+          49.0037531
+        ]
+      },
+      "id": "node/5262248223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5327145150",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5133786,
+          48.9730746
+        ]
+      },
+      "id": "node/5327145150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5535945111",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3772888,
+          48.9010905
+        ]
+      },
+      "id": "node/5535945111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631299729",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6423939,
+          48.9755415
+        ]
+      },
+      "id": "node/5631299729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5640314065",
+        "amenity": "taxi",
+        "level": "0",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2384245,
+          48.8932967
+        ]
+      },
+      "id": "node/5640314065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5667543109",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3343,
+          48.9121605
+        ]
+      },
+      "id": "node/5667543109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5981525810",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6338011,
+          48.8393414
+        ]
+      },
+      "id": "node/5981525810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6007129728",
+        "amenity": "taxi",
+        "contact:phone": "+33 1 47 73 86 77",
+        "covered": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2374248,
+          48.8897592
+        ]
+      },
+      "id": "node/6007129728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6015055254",
+        "amenity": "taxi",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3650546,
+          48.8414952
+        ]
+      },
+      "id": "node/6015055254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6024473441",
+        "amenity": "taxi",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.183923,
+          48.7993133
+        ]
+      },
+      "id": "node/6024473441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6076480592",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1976814,
+          49.0076954
+        ]
+      },
+      "id": "node/6076480592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6080437262",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2356755,
+          48.9929685
+        ]
+      },
+      "id": "node/6080437262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6277231418",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5824615,
+          48.8429218
+        ]
+      },
+      "id": "node/6277231418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6296426387",
+        "amenity": "taxi",
+        "bench": "yes",
+        "ref": "108",
+        "shelter": "yes",
+        "survey:date": "2021-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3864944,
+          48.898785
+        ]
+      },
+      "id": "node/6296426387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6420580094",
+        "amenity": "taxi",
+        "ref": "94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3274104,
+          48.8926094
+        ]
+      },
+      "id": "node/6420580094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466602180",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6399005,
+          48.8748221
+        ]
+      },
+      "id": "node/6466602180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6597002532",
+        "amenity": "taxi",
+        "capacity": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4138469,
+          48.8931135
+        ]
+      },
+      "id": "node/6597002532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6659675494",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1223497,
+          48.8983173
+        ]
+      },
+      "id": "node/6659675494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669340814",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4025351,
+          48.8009453
+        ]
+      },
+      "id": "node/6669340814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669340818",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4021026,
+          48.8005761
+        ]
+      },
+      "id": "node/6669340818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6670421715",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4022608,
+          48.7128015
+        ]
+      },
+      "id": "node/6670421715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680468347",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2789463,
+          48.83687
+        ]
+      },
+      "id": "node/6680468347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6683435755",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3142808,
+          48.8941286
+        ]
+      },
+      "id": "node/6683435755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6866874284",
+        "amenity": "taxi",
+        "name": "Bastille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3697723,
+          48.8530436
+        ]
+      },
+      "id": "node/6866874284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6971075945",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2778734,
+          48.8713639
+        ]
+      },
+      "id": "node/6971075945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7091082291",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2996724,
+          48.8578797
+        ]
+      },
+      "id": "node/7091082291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7211863699",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6537718,
+          48.8397612
+        ]
+      },
+      "id": "node/7211863699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7596488522",
+        "amenity": "taxi",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3190641,
+          48.8377417
+        ]
+      },
+      "id": "node/7596488522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7741182567",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3780955,
+          48.8395797
+        ]
+      },
+      "id": "node/7741182567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8032670133",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2783037,
+          48.8273434
+        ]
+      },
+      "id": "node/8032670133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8050093497",
+        "amenity": "taxi",
+        "bench": "yes",
+        "bus": "no",
+        "name": "Place Coluche - Amiral Mouchez",
+        "shelter": "yes",
+        "survey:date": "2020-10-23",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3416395,
+          48.8262656
+        ]
+      },
+      "id": "node/8050093497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8085888842",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4032528,
+          48.8784983
+        ]
+      },
+      "id": "node/8085888842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8096262774",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3939152,
+          48.8892082
+        ]
+      },
+      "id": "node/8096262774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8121875012",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3529801,
+          48.8818362
+        ]
+      },
+      "id": "node/8121875012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8143294904",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3705674,
+          48.8212924
+        ]
+      },
+      "id": "node/8143294904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8194007157",
+        "amenity": "taxi",
+        "ref": "69",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3020059,
+          48.8398773
+        ]
+      },
+      "id": "node/8194007157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8194116177",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2751288,
+          48.8393442
+        ]
+      },
+      "id": "node/8194116177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8202482069",
+        "amenity": "taxi",
+        "ref": "13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3523174,
+          48.8431451
+        ]
+      },
+      "id": "node/8202482069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8207289201",
+        "amenity": "taxi",
+        "survey:date": "2020-12-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3109685,
+          48.8471782
+        ]
+      },
+      "id": "node/8207289201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8207543524",
+        "amenity": "taxi",
+        "bench": "yes",
+        "shelter": "yes",
+        "survey:date": "2020-12-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3303307,
+          48.8316193
+        ]
+      },
+      "id": "node/8207543524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8247274530",
+        "amenity": "taxi",
+        "name": "Porte d'Auteuil",
+        "ref": "79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2597457,
+          48.8476517
+        ]
+      },
+      "id": "node/8247274530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8247412408",
+        "amenity": "taxi",
+        "name": "Mozart Jasmin",
+        "ref": "76",
+        "shelter": "yes",
+        "survey:date": "2020-12-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2679683,
+          48.8522954
+        ]
+      },
+      "id": "node/8247412408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8256992368",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3570295,
+          48.8652891
+        ]
+      },
+      "id": "node/8256992368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8300762998",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Porte d'Aubervilliers",
+        "ref": "97",
+        "shelter": "yes",
+        "survey:date": "2021-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3701618,
+          48.8992358
+        ]
+      },
+      "id": "node/8300762998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8302261411",
+        "amenity": "taxi",
+        "bench": "yes",
+        "name": "Flandre Stalingrad",
+        "ref": "104",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3694525,
+          48.8849714
+        ]
+      },
+      "id": "node/8302261411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8319444886",
+        "amenity": "taxi",
+        "shelter": "yes",
+        "survey:date": "2021-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3379153,
+          48.8723781
+        ]
+      },
+      "id": "node/8319444886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8330855465",
+        "amenity": "taxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3106991,
+          48.8957535
+        ]
+      },
+      "id": "node/8330855465"
+    }
+  ]
+}
